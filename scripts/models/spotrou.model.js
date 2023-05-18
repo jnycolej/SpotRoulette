@@ -1,44 +1,16 @@
 const shortid = require('shortid');
+const fs = require('fs');
+const destinations = require('../../places.json');
 
-const destinations = [
-    "Restaurant A",
-    "Bar B",
-    "Attraction C"
-];
-
-class SpotRoulette{
-    constructor(){
-        this.roulettes = {};
-    }
-
-    create(start, end){
-        const number = Math.floor(Math.random() * (end - start + 1)) + start;
-
-        const id = shortid.generate();
-
-        const roulette = {
-            number: number,
-            start: start,
-            end: end,
-            over: false
-        };
-
-        this.roulettes[id] = roulette;
-
-        console.log(this.roulettes);
-
-        return id;
-    }
-
-    get(id){
-        if(this.roulettes[id]){
-            const {number, ...data} = this.roulettes[id];
-            return data;
-        }
-        else {
-            return null;
-        }
-    }
+function getDataFromJSON() {
+    const data = fs.readFileSync('../../places.json');
+    const jsonData = JSON.parse(data);
+    return jsonData;
 }
-
-module.exports = new SpotRoulette();
+function getRandomDestination() {
+  const randomIndex = Math.floor(Math.random() * destinations.length);
+  return destinations[randomIndex];
+}
+module.exports = {
+    getRandomDestination
+};
