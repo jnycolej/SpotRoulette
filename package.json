@@ -1,0 +1,13 @@
+{
+    "name": "spotroulette-api",
+    "version": "1.0.0",
+    "author": "Jennifer Joseph",
+    "main": "app.js",
+    "scripts": {
+        "start": "npm install && node app"
+    },
+    "dependencies": {
+        "express": "*",
+        "shortid": "*"
+    }
+}
