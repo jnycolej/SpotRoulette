@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Pick A Place</title>
+        <link rel="stylesheet" href="styles/letsgoout.css">
+        <link rel="stylesheet" href='styles/bootstrap.min.css'>
+    </head>
+    <body class="m-2 p-2 text-center bg-success">
+        <nav>
+            <ul class="list-decoration-none">
+                <li><a href="index.html">Home</a></li>
+                
+            </ul>
+        </nav>
+        <h1>Let's Go Out</h1>
+        <p>What kind of place are you looking for?</p>
+        <div>
+            <input type="radio" name="typeOfPlace" value="restaurant">
+                <label for="restaurant">Restaurant</label>
+            <input type="radio" name="typeOfPlace" value="bar">
+                <label for="bar">Bar</label>
+            <input type="radio" name="typeOfPlace" value="attraction">
+                <label for="attraction">Attraction</label>    
+        </div>
+
+        <input type="checkbox" name="kids" value="kidFriendly">
+            <label for="kidFriendly">Kid Friendly</label>
+        <br>
+        <button class="btn btn-lg btn-primary">
+            Find a Place
+        </button>
+
+        <script src="scripts/bootstrapjs/bootstrap.bundle.min.js"></script>
+    </body>
+</html>
