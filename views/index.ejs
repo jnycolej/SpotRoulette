@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Spot Roulette</title>
+    <link rel="stylesheet" href="../styles/spotroulette.css">
+    <link rel="stylesheet" href='../styles/bootstrap.min.css'>
+    <link rel="stylesheet" href="../styles/bootstrap-icons.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Gruppo">
+</head>
+
+<body class="text-center whole-page">
+    <nav class="navbar navbar-expand-md navbar-dark container-fluid" style="background-color: #323232">
+        <a class="navbar-brand" href="index.ejs"> Home </a>
+        <button class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbar-options"><i class="navbar-toggler-icon"></i></button>
+        <div class="collapse navbar-collapse" id="navbar-options">
+            <ul class="navbar-nav ms-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="rules.html"></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="tips.html"></a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <div class="position-relative container text-center h-auto w-auto d-flex flex-column justify-content-center">
+        <h1 class="display-1" style="font-family: 'Gruppo'; color: #fcfcfc;">SpotRoulette</h1>
+        <!--<img class="mx-auto d-block" style="height: auto; width: auto;"src="assets/roulettelogo.png">-->
+        <p>What kind of place are you looking for?</p>
+        <div class="form-check-inline">
+            <label class="form-check-label">
+                <input type="radio" class="form-check-input" name="optradio" value="Restaurant"> Restaurant
+            </label>
+        </div>
+        <div class="form-check-inline">
+            <label class="form-check-label">
+                <input type="radio" class="form-check-input" name="optradio" value="Bar"> Bar
+            </label>
+        </div>
+        <div class="form-check-inline">
+            <label class="form-check-label">
+                <input type="radio" class="form-check-input" name="optradio" value="Attraction"> Attraction
+            </label>
+        </div>
+        <br>
+
+    </div>        
+    <button class="btn btn-lg btn-primary" onclick="getRandomDestination()">Find a Place</button>
+
+    <div id="destination-container"></div>
+
+    <template id="destination-template">
+        <div class="destination-info">
+            <h2><%= destination.name %></h2>
+            <p><strong>Location:</strong> <%= destination.address %></p>
+            <p><strong>Description:</strong> <%= destination.description %></p>
+            <p><strong>Address:</strong> <%= destination.address %></p>
+            <p><strong>Coordinates:</strong> Latitude: <%=destination.coordinates.latitude%>, Longitude: <%=destination.coordinates.longitude%></p>
+            <a href="#" class="btn btn-primary">Learn More</a>
+        </div>
+    </template>
+    <script src="scripts/destination.js"></script>
+    <!-- Bootstrap Bundle with Popper-->
+    <script src="scripts/bootstrapjs/bootstrap.bundle.min.js"></script>
+</body>
+</html>
+

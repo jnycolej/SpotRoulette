@@ -3,7 +3,7 @@ const fs = require('fs');
 const destinations = require('../../places.json');
 
 function getDataFromJSON() {
-    const data = fs.readFileSync('../../places.json');
+    const data = fs.readFileSync('places.json');
     const jsonData = JSON.parse(data);
     return jsonData;
 }
@@ -12,5 +12,6 @@ function getRandomDestination() {
   return destinations[randomIndex];
 }
 module.exports = {
-    getRandomDestination
+    getRandomDestination,
+    getDataFromJSON
 };

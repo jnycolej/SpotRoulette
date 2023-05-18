@@ -5,3 +5,11 @@
     background: linear-gradient(to top, #d83640, #323232);
     
 }
+
+.destination-info {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }

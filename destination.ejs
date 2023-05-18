@@ -1,0 +1,37 @@
+<html>
+
+<head>
+    <title>Destination Details</title>
+</head>
+
+<body>
+    <h2>Destination Details</h2>
+
+    <div id="destination-details"></div>
+    <!--<p><strong>Uber:</strong> <a href="${destination.uberLink}">Order Uber</a></p>
+                <p><strong>Lyft:</strong> <a href="${destination.lyftLink}">Order Lyft</a></p>
+                <p><strong>Map:</strong> <a href="https://www.google.com/maps?q=${destination.coordinates.latitude},${destination.coordinates.longitude}" target="_blank">View on Google Maps</a></p>-->
+    <script>
+        // Get the destination ID from the URL query string
+        const urlParams = new URLSearchParams(window.location.search);
+        const destinationId = urlParams.get('id');
+
+        // Fetch the destination details
+        fetch(`/destination/${destinationId}`)
+            .then(response => response.json())
+            .then(destination => displayDestination(destination))
+            .catch(error => console.error(error));
+
+        function displayDestination(destination) {
+            const container = document.getElementById('destination-details');
+            <div class="position-relative container text-center h-auto w-auto d-flex flex-column justify-content-center">
+                <h3><%= destination.name %></h3>
+                <p><strong>Address:</strong> <%= destination.address %></p>
+                <p><strong>Description:</strong><%= destination.description %></p>
+                <p><strong>Coordinates:</strong> Latitude: <%=destination.coordinates.latitude%>, Longitude: <%=destination.coordinates.longitude%></p>
+            </div>
+        }
+    </script>
+</body>
+
+</html>

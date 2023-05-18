@@ -44,42 +44,23 @@
             </label>
         </div>
         <br>
-        <div class="form-check">
-            <label class="form-check-label">
-                <input type="checkbox" class="form-check-input" name="includeKidFriendly" value="">Kid-Friendly
-            </label>
-        </div>
-        <br>
 
     </div>        
     <button class="btn btn-lg btn-primary" onclick="getRandomDestination()">Find a Place</button>
 
     <div id="destination-container"></div>
 
-    <script>
-      async function getRandomDestination() {
-        const radioButton = document.querySelector('input[name="optradio"]:checked');
-        const category = radioButton ? radioButton.value : '';
-        const includeKidFriendly = document.querySelector('input[name="includeKidFriendly"]').checked || false
-
-        const url = `/random-destination?category=${encodeURIComponent(category)}&includeKidFriendly=${includeKidFriendly}`;
-        const response = await fetch(url);
-        const destination = await response.json();
-        displayDestination(destination);
-      }
-  
-      function displayDestination(destination) {
-        const container = document.getElementById('destination-container');
-  
-        container.innerHTML = `
-            <br>
-            <h2>${destination.name}</h2>
-            <p><strong>Location:</strong> ${destination.neighborhood}</p>
-            <p><strong>Description:</strong> ${destination.description}</p>
-        `;
-      }
-    </script>
-    <!-- Bootstrap Bundle with Popper -->
+    <template id="destination-template">
+        <div class="destination-info">
+            <h2></h2>
+            <p><strong>Location:</strong></p>
+            <p><strong>Description:</strong></p>
+            <a href="#" class="btn btn-primary">Learn More</a>
+        </div>
+    </template>
+    <script src="scripts/destination.js"></script>
+    <!-- Bootstrap Bundle with Popper-->
     <script src="scripts/bootstrapjs/bootstrap.bundle.min.js"></script>
 </body>
 </html>
+
