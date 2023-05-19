@@ -1,10 +1,12 @@
-const model = require('../models/spotrou.model');
+const {getRandomDestination: getRandomDestinationFromUtils } = require('../destinationUtils');
 
 function getRandomDestination(req, res) {
-  const randomDestination = model.getRandomDestination();
+  const category = req.query.category;
+
+  const randomDestination = getRandomDestination(category);
   res.json(randomDestination);
-}
+};
 
 module.exports = {
-  getRandomDestination
+  getRandomDestination: getRandomDestinationFromUtils
 };

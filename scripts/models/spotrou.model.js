@@ -1,17 +1,20 @@
 const shortid = require('shortid');
 const fs = require('fs');
-const destinations = require('../../places.json');
+const { getRandomDestination: getRandomDestinationFromUtils } = require('../destinationUtils');
 
 function getDataFromJSON() {
-    const data = fs.readFileSync('places.json');
+    const data = fs.readFileSync('../../places.json');
     const jsonData = JSON.parse(data);
     return jsonData;
 }
+
 function getRandomDestination() {
-  const randomIndex = Math.floor(Math.random() * destinations.length);
-  return destinations[randomIndex];
+  const jsonData = getDataFromJSON();
+  const randomIndex = Math.floor(Math.random() * jsonData.length);
+  return jsonData[randomIndex];
 }
+
 module.exports = {
-    getRandomDestination,
+    getRandomDestination: getRandomDestinationFromUtils,
     getDataFromJSON
 };
