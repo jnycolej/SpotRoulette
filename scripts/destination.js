@@ -18,8 +18,8 @@ async function getRandomDestination() {
         <p><strong>Type:</strong> ${destination.category}</p>
         <p><strong>Location:</strong> ${destination.neighborhood}</p>
         <p><strong>Description:</strong> ${destination.description}</p>
-        <button class="btn btn-primary" onclick="viewMoreInfo('${destination.id}')">View More Info</button>
-    `;
+        <a href="/destination/${destination.id}" class="btn btn-primary">View More Info</a>
+      `;
   }
 
   function viewMoreInfo(destinationId){

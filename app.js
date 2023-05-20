@@ -4,6 +4,10 @@ const port = 3000;
 
 const routes = require('./scripts/routes/spotrou.routes');
 
+app.set('view engine', 'ejs');
+
+app.use(express.static('styles'));
+
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 

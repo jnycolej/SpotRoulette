@@ -15,7 +15,8 @@ router.get('/destination/:id', async (req, res) => {
   const id = req.params.id;
   try {
     const destination = await getDataFromJSON(id);
-    res.render('index', { destination });
+    console.log(destination);
+    res.render('more-info', { destination: destination });
   } catch (error) {
     console.error(error);
     res.status(500).json({ error: 'Internal Server Error' });
