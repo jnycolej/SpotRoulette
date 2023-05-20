@@ -2,6 +2,7 @@ const express = require('express');
 const app = express();
 const port = 3000;
 const path = require('path');
+require('dotenv').config();
 
 const routes = require('./scripts/routes/spotrou.routes');
 
