@@ -14,7 +14,9 @@ router.get('/random-destination', (req, res) => {
 router.get('/destination/:id', async (req, res) => {
   const id = req.params.id;
   try {
-    const destination = await getDataFromJSON(id);
+    //const destination = await getDataFromJSON(id);
+    //const destination = await getRandomDestination(id);
+    const destination = getDataFromJSON(id);
     console.log(destination);
     res.render('more-info', { destination: destination });
   } catch (error) {
