@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>List</title>
+</head>
+<body>
+  <h1>List of <%= category %>s</h1>
+  <ul>
+    <% data.forEach(item => { %>
+      <li><%= item.name %></li>
+    <% }) %>
+  </ul>
+</body>
+</html>

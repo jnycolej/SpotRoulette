@@ -7,6 +7,8 @@ function getRandomDestination(category) {
   return randomDestination;
 }
 
+
 module.exports = {
-  getRandomDestination
+  getRandomDestination,
+  //getRandomDestinationSpecific
 };

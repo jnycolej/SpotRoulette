@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Spot Roulette</title>
+    <link rel="stylesheet" href="spotroulette.css">
+    <link rel="stylesheet" href='bootstrap.min.css'>
+    <link rel="stylesheet" href="bootstrap-icons.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Gruppo">
+</head>
+<body>
+    <div>
+        <h1>SpotRoulette</h1>
+        <!--<img class="mx-auto d-block" style="height: auto; width: auto;"src="assets/roulettelogo.png">-->
+        <p>What kind of place are you looking for?</p>
+        <div class="form-check-inline">
+            <label class="form-check-label">
+                <input type="radio" class="form-check-input" name="optradio" value="Restaurant"> Restaurant
+            </label>
+        </div>
+        <div class="form-check-inline">
+            <label class="form-check-label">
+                <input type="radio" class="form-check-input" name="optradio" value="Bar"> Bar
+            </label>
+        </div>
+        <div class="form-check-inline">
+            <label class="form-check-label">
+                <input type="radio" class="form-check-input" name="optradio" value="Attraction"> Attraction
+            </label>
+        </div>
+        <br>
+        <select id="restaurant-select">
+            <option value="-">-</option>
+            <option value="asian">Asian</option>
+            <option value="barbecue">Barbecue</option>
+            <option value="bistro">Bistro</option>
+            <option value="brasserie">Brasserie</option>
+            <option value="breakfast">Breakfast</option>
+            <option value="carribbean">Carribean</option>
+            <option value="comfortfood">Comfort Food</option>
+            <option value="creole">Creole</option>
+            <option value="ethiopian">Ethiopian</option>
+            <option value="experimental">Experimental</option>
+            <option value="french">French</option>
+            <option value="german">German</option>
+            <option value="global">Global</option>
+            <option value="haitian">Haitian</option>
+            <option value="italian">Italian</option>
+            <option value="local">Local</option>
+            <option value="mediterranean">Mediterranean</option>
+            <option value="mexican">Mexican</option>
+            <option value="seafood">Seafood</option>
+            <option value="steakhouse">Steakhouse</option>
+            <option value="tapas">Tapas</option>
+            <option value="thai">Thai</option>
+            <option value="tropical">Tropical</option>
+            <option value="vegan">Vegan</option> 
+            <option value="vegetarian">Vegetarian</option>
+            
+
+        </select>
+
+    </div>        
+    <button class="btn btn-primary" onclick="getRandomDestination()">Find a Place</button>
+    <button class="btn" onclick="document.location='index.html'">Less Specific</button>
+    <div id="destination-container"></div>
+
+    <script src="scripts/destination-specific.js"></script>
+    <!-- Bootstrap Bundle with Popper-->
+    <script src="scripts/bootstrapjs/bootstrap.bundle.min.js"></script>
+</body>
+</html>
+

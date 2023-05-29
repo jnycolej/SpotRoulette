@@ -25,4 +25,18 @@ router.get('/destination/:id', async (req, res) => {
   }
 });
 
+router.get('/categoryList', async (req, res) => {
+  const category = req.query.category;
+
+  try {
+    const data = await getDataFromJSON(); // Assuming getDataFromJSON returns the JSON data
+    const filteredData = data.filter(item => item.category === category);
+
+    res.render('list', { category, data: filteredData });
+  } catch (error) {
+    console.error(error);
+    res.status(500).json({ error: 'Internal Server Error' });
+  }
+});
+
 module.exports = router;
