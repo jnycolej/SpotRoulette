@@ -2869,5 +2869,43 @@
         "isFavorite": false,
         "isFeatured": false,
         "imageName": "LogoLight"
+    },
+    {
+        "id": 1156,
+        "name": "Mosca's",
+        "address": "4137 US-90",
+        "city": "Westwego",
+        "state": "LA",
+        "zipcode": "70094",
+        "neighborhood": "Westbank",
+        "type": "Italian",
+        "category": "Restaurant",
+        "coordinates": {
+            "latitude": 29.91141,
+            "longitude": -90.22940 
+        },
+        "description": "Nothing-fancy place serving heart portions of family-style Italian fare sine 1946",
+        "isFavorite": false,
+        "isFeatured": false,
+        "imageName": "LogoDark"
+    },
+    {
+        "id": 1157,
+        "name": "Oak Oven",
+        "address": "6625 Jefferson Hwy",
+        "city": "Harahan",
+        "state": "LA",
+        "zipcode": "70123",
+        "neighborhood": "Metairie",
+        "type": "Italian",
+        "category": "Restaurant",
+        "coordinates": {
+            "latitude": 29.93838,
+            "longitude": -90.19589
+        },
+        "description": "Popular, contemporary Italian restaurant serving rustic pastas, seafood, wood-fired pizzas & wine.",
+        "isFavorite": false,
+        "isFeatured": false,
+        "imageName": "LogoLight"
     }							   
 ]
