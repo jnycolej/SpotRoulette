@@ -8,7 +8,7 @@ function getDataFromJSON(id) {
     //const data = fs.readFileSync(filePath);
     //const jsonData = JSON.parse(data);
     //return jsonData;
-    const jsonData = require('../../places.json');
+    const jsonData = require('../../../places.json');
     //const destination = jsonData.find(item => item.id === id);
     const destination = jsonData.find((item) => item.id.toString() === id);
     return destination;

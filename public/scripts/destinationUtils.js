@@ -1,4 +1,4 @@
-const places = require('../places.json');
+const places = require('../../places.json');
 
 function getRandomDestination(category) {
   const filteredDestinations = places.filter(destination => destination.category === category);
