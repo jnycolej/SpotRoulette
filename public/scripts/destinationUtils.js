@@ -6,9 +6,13 @@ function getRandomDestination(category) {
   const randomDestination = filteredDestinations[randomIndex];
   return randomDestination;
 }
-
+function getList(category) {
+  const filteredList = places.filter(destination => destination.category === category);
+  return filteredList;
+}
 
 module.exports = {
   getRandomDestination,
+  getList
   //getRandomDestinationSpecific
 };

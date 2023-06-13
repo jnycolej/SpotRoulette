@@ -5,7 +5,7 @@ const path = require('path');
 
 const getDataFromJSONFull = () => {
   const data = require('../../../places.json');
-  console.log(data); // Check if data is correctly retrieved
+  //console.log(data); // Check if data is correctly retrieved
   return data;
 };
 

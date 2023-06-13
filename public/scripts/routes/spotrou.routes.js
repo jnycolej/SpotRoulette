@@ -3,7 +3,7 @@ const router = express.Router();
 
 //const controllers = require('../controllers/spotrou.controllers');
 const { getDataFromJSON, getDataFromJSONFull } = require('../models/spotrou.model');
-const { getRandomDestination} = require('../destinationUtils');
+const { getRandomDestination, getList} = require('../destinationUtils');
 
 //router.get('/random-destination', controllers.getRandomDestination);
 router.get('/random-destination', (req, res) => {
@@ -25,10 +25,11 @@ router.get('/destination/:id', async (req, res) => {
 
 router.get('/categoryList', async (req, res) => {
   try {
-    const data = await getDataFromJSONFull(); // Assuming getDataFromJSON returns the JSON data
+    const data = getDataFromJSONFull(); // Assuming getDataFromJSON returns the JSON data
     const category = req.query.category;
-    const filteredData = data.filter(item => item.category === 'restaurant');
-    res.render('categoryList', {category, data: filteredData});
+    const list = getList(category);
+    console.log(data);
+    res.render('categoryList', {category, list});
   } catch (error) {
     console.error(error);
     res.status(500).json({ error: 'Internal Server Error' });
