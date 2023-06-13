@@ -13,10 +13,7 @@
             "latitude": 29.97653,
             "longitude": -90.07657
         },
-        "description": "Ethiopian dishes in an intimate setting.",
-        "isFavorite": true,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Ethiopian dishes in an intimate setting."
     },
     { 
         "id": 2,
@@ -32,10 +29,7 @@
             "latitude": 29.92081,
             "longitude": -90.10578
         },
-        "description": "Modern Louisiana cooking & happy hour",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Modern Louisiana cooking & happy hour"
     },
     {
         "id": 3,
@@ -51,10 +45,7 @@
             "latitude": 29.95593,
             "longitude": -90.06882
         },
-        "description": "Classy haunt for Creole fare since 1918",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Classy haunt for Creole fare since 1918"
     },
     {	
         "id": 4,
@@ -70,11 +61,7 @@
             "latitude": 29.92146,
             "longitude": -90.08784
         },
-        "description": "Modern Louisiana fare & craft cocktails",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
-        
+        "description": "Modern Louisiana fare & craft cocktails"
     },
     {
         "id": 5,
@@ -90,10 +77,7 @@
             "latitude": 29.96508,
             "longitude": -90.04287
         },
-        "description": "Farm-to-fork cafe with vegetarian fare",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Farm-to-fork cafe with vegetarian fare"
     },
     {
         "id": 6,
@@ -109,10 +93,7 @@
             "latitude": 29.91765,
             "longitude": -90.09629
         },
-        "description": "Comfy taqueria with outdoor tables",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Comfy taqueria with outdoor tables"
     },
     {
         "id": 7,
@@ -128,10 +109,7 @@
             "latitude": 29.96241,
             "longitude": -90.11773
         },
-        "description": "",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Placeholder Text"
     },
     {   
         "id": 8,
@@ -147,10 +125,7 @@
             "latitude": 29.92382,
             "longitude": -90.08695
         },
-        "description": "Louisiana-inspired fare in a warm space",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Louisiana-inspired fare in a warm space"
     },
     {    
         "id": 9,
@@ -166,10 +141,7 @@
             "latitude": 29.92382,
             "longitude": -90.08695
         },
-        "description": "Louisiana fare in a 200-year-old cottage",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Louisiana fare in a 200-year-old cottage"
     },
     {    
         "id": 10,
@@ -185,10 +157,7 @@
             "latitude": 29.93585,
             "longitude": -90.10411
         },
-        "description": "Modern cafe for eclectic brunch fare",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Modern cafe for eclectic brunch fare"
     },		
     {    
         "id": 11,
@@ -204,10 +173,7 @@
             "latitude": 29.94543,
             "longitude": -90.07332
         },
-        "description": "Well-known spot for brunch & dinner",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Well-known spot for brunch & dinner"
     },	
     {   
         "id": 12,
@@ -223,10 +189,7 @@
             "latitude": 29.95537,
             "longitude": -90.07295
         },
-        "description": "",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Placeholder Text"
     },
     {    
         "id": 13,
@@ -242,10 +205,7 @@
             "latitude": 29.96344,
             "longitude": -90.06586
         },
-        "description": "",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Placeholder Text"
     },
     {
         "id": 14,
@@ -261,10 +221,7 @@
             "latitude": 29.98073,
             "longitude": -90.09359
         },
-        "description": "Happening spot for Southern barbecue",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Happening spot for Southern barbecue"
     },
     {    
         "id": 15,
@@ -280,10 +237,7 @@
             "latitude": 29.96607,
             "longitude": -90.03750
         },
-        "description": "",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Placeholder Text"
     },
     {    
         "id": 16,
@@ -299,10 +253,7 @@
             "latitude": 29.95007,
             "longitude": -90.12769
         },
-        "description": "Contemporary Southern classics",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Contemporary Southern classics"
     },
     {   
         "id": 17,
@@ -318,10 +269,7 @@
             "latitude": 29.92198,
             "longitude": -90.09293
         },
-        "description": "Swanky gastropub for modern small plates",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Swanky gastropub for modern small plates"
     },
     {   
         "id": 18,
@@ -337,10 +285,7 @@
             "latitude": 29.96243,
             "longitude": -90.04293
         },
-        "description": "German sandwiches, pes, & beer",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "German sandwiches, pes, & beer"
     },
     {
         "id": 19,
@@ -356,10 +301,7 @@
             "latitude": 29.95140,
             "longitude": -90.13474
         },
-        "description": "Easygoing plant-based bakery & cafe",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Easygoing plant-based bakery & cafe"
     },
     {
         "id": 20,
@@ -375,10 +317,7 @@
             "latitude": 29.96634,
             "longitude": -90.05110
         },
-        "description": "",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Placeholder Text"
     },	
     {
         "id": 21,
@@ -394,10 +333,7 @@
             "latitude": 29.95624,
             "longitude": -90.06661
         },
-        "description": "Traditional spot for upscale Creole fare",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Traditional spot for upscale Creole fare"
     },
     {
         "id": 22,
@@ -413,10 +349,7 @@
             "latitude": 29.94590,
             "longitude": -90.13468
         },
-        "description": "Traditional spot for upscale Creole fare",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Traditional spot for upscale Creole fare"
     },	
     {
         "id": 23,
@@ -432,10 +365,7 @@
             "latitude": 29.95669,
             "longitude": -90.06809
         },
-        "description": "Elegant dining & Creole fare since 1920",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Elegant dining & Creole fare since 1920"
     },	
     {
         "id": 24,
@@ -451,10 +381,7 @@
             "latitude": 29.98062,
             "longitude": -90.08422
         },
-        "description": "Intimate French bistro",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Intimate French bistro"
     },
     {
         "id": 25,
@@ -470,10 +397,7 @@
             "latitude": 29.94013,
             "longitude": -90.08041
         },
-        "description": "Nonprofit Southern lunch spot",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Nonprofit Southern lunch spot"
     },	
     {
         "id": 26,
@@ -489,10 +413,7 @@
             "latitude": 29.96045,
             "longitude": -90.05978
         },
-        "description": "Rum cocktails & eclectic nibbles",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Rum cocktails & eclectic nibbles"
     },
     {
         "id": 27,
@@ -508,10 +429,7 @@
             "latitude": 29.96482,
             "longitude": -90.04649
         },
-        "description": "Trendy eatery for bar bites & cocktails",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Trendy eatery for bar bites & cocktails"
     },
     {
         "id": 28,
@@ -527,10 +445,7 @@
             "latitude": 29.94583,
             "longitude": -90.06998
         },
-        "description": "Cafe with vegan-friendly tropical eats",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Cafe with vegan-friendly tropical eats"
     },		
     {
         "id": 29,
@@ -546,10 +461,7 @@
             "latitude": 29.93966,
             "longitude": -90.08065
         },
-        "description": "Temporarily Closed",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Temporarily Closed"
     },
     {
         "id": 30,
@@ -565,10 +477,7 @@
             "latitude": 29.92098,
             "longitude": -90.10103
         },
-        "description": "category for fresh oysters since 1919",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "category for fresh oysters since 1919"
     },	
     {
         "id": 31,
@@ -584,10 +493,7 @@
             "latitude": 29.92946,
             "longitude": -90.10407
         },
-        "description": "Classic steaks & sides since 1932",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Classic steaks & sides since 1932"
     },	
     {
         "id": 32,
@@ -603,10 +509,7 @@
             "latitude": 29.94926,
             "longitude": -90.06388
         },
-        "description": "Fine dining in a posh hotel restaurant",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Fine dining in a posh hotel restaurant"
     },		
     {
         "id": 33,
@@ -622,10 +525,7 @@
             "latitude": 29.92377,
             "longitude": -90.08683
         },
-        "description": "Temporarily closed",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Temporarily closed"
     },	
     {
         "id": 34,
@@ -641,10 +541,7 @@
             "latitude": 29.95487,
             "longitude": -90.07198
         },
-        "description": "Grocery & cafe with classic meals",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Grocery & cafe with classic meals"
     },	
     {
         "id": 35,
@@ -660,10 +557,7 @@
             "latitude": 29.92903,
             "longitude": -90.08424
         },
-        "description": "Destination for upscale Creole fare",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Destination for upscale Creole fare"
     },
     {
         "id": 36,
@@ -679,10 +573,7 @@
             "latitude": 29.94814,
             "longitude": -90.06730
         },
-        "description": "Elegant spot for Carribean dishes",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Elegant spot for Carribean dishes"
     },
     {
         "id": 37,
@@ -698,10 +589,7 @@
             "latitude": 29.94266,
             "longitude": -90.13447
         },
-        "description": "Sports bar with oysters & beers galore",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Sports bar with oysters & beers galore"
     },
     {
         "id": 38,
@@ -717,10 +605,7 @@
             "latitude": 29.92615,
             "longitude": -90.08259
         },
-        "description": "Chic bistro with New American eats",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Chic bistro with New American eats"
     },
     {
         "id": 39,
@@ -736,10 +621,7 @@
             "latitude": 29.95045,
             "longitude": -90.06797
         },
-        "description": "French restaurant with a charming patio",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "French restaurant with a charming patio"
     },
     {
         "id": 40,
@@ -755,10 +637,7 @@
             "latitude": 29.94151,
             "longitude": -90.12365
         },
-        "description": "Casual counter for sweet & savory crepes",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Casual counter for sweet & savory crepes"
     },
     {
         "id": 41,
@@ -774,10 +653,7 @@
             "latitude": 29.91752,
             "longitude": -90.11233
         },
-        "description": "Beloved neighborhood po' boy & beer spot",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Beloved neighborhood po' boy & beer spot"
     },
     {
         "id": 42,
@@ -793,10 +669,7 @@
             "latitude": 29.96817,
             "longitude": -90.07847
         },
-        "description": "Destination for Creole comfort fare",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Destination for Creole comfort fare"
     },
     {
         "id": 43,
@@ -812,10 +685,7 @@
             "latitude": 29.94939,
             "longitude": -90.10438
         },
-        "description": "Mexican meals & drinks in laid-back digs",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Mexican meals & drinks in laid-back digs"
     },
     {
         "id": 44,
@@ -831,10 +701,7 @@
             "latitude": 29.96398,
             "longitude": -90.07199
         },
-        "description": "",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Placeholder Text"
     },
     {
         "id": 45,
@@ -851,10 +718,7 @@
             "longitude": -90.08005
     
         },
-        "description": "Cheery spot for refined Cajun fare",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Cheery spot for refined Cajun fare"
     },
     {
         "id": 46,
@@ -870,10 +734,7 @@
             "latitude": 29.96768,
             "longitude": -90.04458
         },
-        "description": "",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Placeholder Text"
     },
     {
         "id": 47,
@@ -889,10 +750,7 @@
             "latitude": 29.93202,
             "longitude": -90.07347
         },
-        "description": "Refined Southern fare in a stylish space",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Refined Southern fare in a stylish space"
     },
     {
         "id": 48,
@@ -908,10 +766,7 @@
             "latitude": 29.95582,
             "longitude": -90.06892
         },
-        "description": "Upscale Seafood Dining",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Upscale Seafood Dining"
     },	
     {
         "id": 49,
@@ -927,10 +782,7 @@
             "latitude": 29.94405,
             "longitude": -90.08623
         },
-        "description": "Creative Southern eats in basic environments",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Creative Southern eats in basic environments"
     },
     {    
         "id": 50,
@@ -946,10 +798,7 @@
             "latitude": 29.94752,
             "longitude": -90.07143
         },
-        "description": "Classy spot for French & American dishes",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Classy spot for French & American dishes"
     },
     {    
         "id": 51,
@@ -965,10 +814,7 @@
             "latitude": 29.94739,
             "longitude": -90.07148
         },
-        "description": "Classy spot for French & American dishes",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Classy spot for French & American dishes"
     },
     {
         "id": 52,
@@ -984,10 +830,7 @@
             "latitude": 29.93856,
             "longitude": -90.07635
         },
-        "description": "",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Placeholder Text"
     },
     {
         "id": 53,
@@ -1003,10 +846,7 @@
             "latitude": 29.96499,
             "longitude": -90.07219
         },
-        "description": "Vegan eatery serving comfort food",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Vegan eatery serving comfort food"
     },
     {
         "id": 54,
@@ -1022,10 +862,7 @@
             "latitude": 29.96405,
             "longitude": -90.08843
         },
-        "description": "ino grocery store & prepared foods",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "ino grocery store & prepared foods"
     },
     {    
         "id": 55,
@@ -1041,10 +878,7 @@
             "latitude": 30.00497,
             "longitude": -90.10589
         },
-        "description": "",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Placeholder Text"
     },
     {   
         "id": 56,
@@ -1060,10 +894,7 @@
             "latitude": 29.97336,
             "longitude": -90.09593
         },
-        "description": "Homey category for Creole & Italian eats",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Homey category for Creole & Italian eats"
     },
     {
         "id": 57,
@@ -1079,10 +910,7 @@
             "latitude": 29.94147,
             "longitude": -90.12852
         },
-        "description": "",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Placeholder Text"
     },
     {  
         "id": 58,
@@ -1098,10 +926,7 @@
             "latitude": 29.95713,
             "longitude": -90.00205
         },
-        "description": "",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Placeholder Text"
     },
     {    
         "id": 59,
@@ -1117,10 +942,7 @@
             "latitude": 29.92101,
             "longitude": -90.10008
         },
-        "description": "Quaint spot for modern Louisiana cuisine",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Quaint spot for modern Louisiana cuisine"
     },    
     {
         "id": 60,
@@ -1136,10 +958,7 @@
             "latitude": 29.94735,
             "longitude": -90.07163
         },
-        "description": "",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Placeholder Text"
     },
     {
         "id": 61,
@@ -1155,10 +974,7 @@
             "latitude": 29.93824,
             "longitude": -90.07028
         },
-        "description": "",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Placeholder Text"
     },
     {
         "id": 62,
@@ -1174,10 +990,7 @@
             "latitude": 29.96889,
             "longitude": -90.06782
         },
-        "description": "Creole spot offering classic soul food",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Creole spot offering classic soul food"
     },
     {
         "id": 63,
@@ -1193,10 +1006,7 @@
             "latitude": 29.92216,
             "longitude": -90.09270
         },
-        "description": "Upscale Parisian style bistro with patio",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Upscale Parisian style bistro with patio"
     },
     {    
         "id": 64,
@@ -1212,10 +1022,7 @@
             "latitude": 29.93227,
             "longitude": -90.07344
         },
-        "description": "Casual joint serving Vietnamese classics",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Casual joint serving Vietnamese classics"
     },
     {
         "id": 65,
@@ -1231,10 +1038,7 @@
             "latitude": 29.98052,
             "longitude": -90.08316
         },
-        "description": "Creol stop for famed BBQ shrimp po' boy",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Creol stop for famed BBQ shrimp po' boy"
     },
     {    
         "id": 66,
@@ -1250,10 +1054,7 @@
             "latitude": 29.96054,
             "longitude": -90.11288
         },
-        "description": "",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Placeholder Text"
     },    
     {    
         "id": 67,
@@ -1269,10 +1070,7 @@
             "latitude": 29.91656,
             "longitude": -90.11223
         },
-        "description": "Innovative Pan-Asian eats in cozy digs",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Innovative Pan-Asian eats in cozy digs"
     },
     {    
         "id": 68,
@@ -1288,10 +1086,7 @@
             "latitude": 29.94208,
             "longitude": -90.07516
         },
-        "description": "Traditional Colombian eats in mod digs",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Traditional Colombian eats in mod digs"
     },
     {    
         "id": 69,
@@ -1307,10 +1102,7 @@
             "latitude": 29.97058,
             "longitude": -90.05822
         },
-        "description": "",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Placeholder Text"
     },
     {    
         "id": 70,
@@ -1326,10 +1118,7 @@
             "latitude": 29.96336,
             "longitude": -90.08912
         },
-        "description": "Trendy stop for Southeast Asian bar menu",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Trendy stop for Southeast Asian bar menu"
     },
     {
         "id": 71,
@@ -1345,10 +1134,7 @@
             "latitude": 30.01686,
             "longitude": -90.20079
         },
-        "description": "",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Placeholder Text"
     },
     {    
         "id": 72,
@@ -1364,10 +1150,7 @@
             "latitude": 29.97713,
             "longitude": -90.07714
         },
-        "description": "Quick-serve known for fried chicken",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Quick-serve known for fried chicken"
     },    
     {    
         "id": 73,
@@ -1383,10 +1166,7 @@
             "latitude": 29.96014,
             "longitude": -90.05936
         },
-        "description": "Health-conscious eatery with vegan fare",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Health-conscious eatery with vegan fare"
     },   
     {    
         "id": 74,
@@ -1402,10 +1182,7 @@
             "latitude": 29.91732,
             "longitude": -90.10246
         },
-        "description": "",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Placeholder Text"
     },    
     {    
         "id": 75,
@@ -1421,10 +1198,7 @@
             "latitude": 29.92990,
             "longitude": -90.09700
         },
-        "description": "",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Placeholder Text"
     },    
     {    
         "id": 76,
@@ -1440,10 +1214,7 @@
             "latitude": 29.94916,
             "longitude": -90.13189
         },
-        "description": "",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Placeholder Text"
     },
     {    
        "id": 77,
@@ -1459,10 +1230,7 @@
            "latitude": 29.96879,
            "longitude": -90.04575
        },
-       "description": "Funky French bistro with a courtyard",
-       "isFavorite": false,
-       "isFeatured": false,
-       "imageName": "LogoDark"
+       "description": "Funky French bistro with a courtyard"
     },
     {    
         "id": 78,
@@ -1478,10 +1246,7 @@
             "latitude": 29.96020,
             "longitude": -90.11371
         },
-        "description": "Relaxed spot with burgers & wings",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Relaxed spot with burgers & wings"
     },   
     {
         "id": 79,
@@ -1497,10 +1262,7 @@
             "latitude": 29.98770,
             "longitude": -90.06620
         },
-        "description": "",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Placeholder Text"
     },
     {
         "id": 80,
@@ -1516,10 +1278,7 @@
             "latitude": 29.97606,
             "longitude": -90.07593
         },
-        "description": "Quirky standby for breakfast & lunch",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Quirky standby for breakfast & lunch"
     },
     {    
         "id": 81,
@@ -1535,10 +1294,7 @@
             "latitude": 29.97139,
             "longitude": -90.09139
         },
-        "description": "Butcher & eatery for sandwiches or ribs",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Butcher & eatery for sandwiches or ribs"
     },    
     {   
         "id": 82,
@@ -1554,10 +1310,7 @@
             "latitude": 29.97151,
             "longitude": -90.10629
         },
-        "description": "",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Placeholder Text"
     },
     {    
         "id": 83,
@@ -1573,10 +1326,7 @@
             "latitude": 29.92110,
             "longitude": -90.09886
         },
-        "description": "Chic spot for Indian fare & cocktails",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Chic spot for Indian fare & cocktails"
     },
     {       
         "id": 84,
@@ -1592,10 +1342,7 @@
             "latitude": 29.96779,
             "longitude": -90.04475
         },
-        "description": "",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Placeholder Text"
     },
     {    
         "id": 85,
@@ -1611,10 +1358,7 @@
             "latitude": 29.96043,
             "longitude": -90.05983
         },
-        "description": "",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Placeholder Text"
     },
     {       
         "id": 86,
@@ -1630,10 +1374,7 @@
             "latitude": 29.98107,
             "longitude": -90.08504
         },
-        "description": "Southwestern fare margaritas & a porch",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Southwestern fare margaritas & a porch"
     },
     {       
         "id": 87,
@@ -1649,10 +1390,7 @@
             "latitude": 29.96404,
             "longitude": -90.04292
         },
-        "description": "",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Placeholder Text"
     },
     {       
         "id": 88,
@@ -1668,10 +1406,7 @@
             "latitude": 29.94951,
             "longitude": -90.13264
         },
-        "description": "",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Placeholder Text"
     },
     {       
         "id": 89,
@@ -1687,10 +1422,7 @@
             "latitude": 29.94806,
             "longitude": -90.07232
         },
-        "description": "Oysters & cocktails in swanky digs",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Oysters & cocktails in swanky digs"
     },
     {
         "id": 90,
@@ -1706,10 +1438,7 @@
             "latitude": 29.94078,
             "longitude": -90.06932
         },
-        "description": "Casual alfresco spot showcasing seafood",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Casual alfresco spot showcasing seafood"
     },
     { 
         "id": 91,
@@ -1725,10 +1454,7 @@
             "latitude": 29.92322,
             "longitude": -90.08819
         },
-        "description": "Kitschy, veggie-friendly daytime diner",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Kitschy, veggie-friendly daytime diner"
     },    
     {
         "id": 92,
@@ -1744,10 +1470,7 @@
             "latitude": 29.96365,
             "longitude": -90.05076
         },
-        "description": "",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Placeholder Text"
     },
     {    
         "id": 93,
@@ -1763,10 +1486,7 @@
             "latitude": 29.96507,
             "longitude": -90.04289
         },
-        "description": "Farm-to-fork cafe with vegetarian fare",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Farm-to-fork cafe with vegetarian fare"
     },
     {    
         "id": 94,
@@ -1782,10 +1502,7 @@
             "latitude": 29.95461,
             "longitude": -90.06641
         },
-        "description": "Hip Creole bar food & creative drinks",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "logoWhite"
+        "description": "Hip Creole bar food & creative drinks"
     },
     {    
         "id": 95,
@@ -1801,10 +1518,7 @@
             "latitude": 29.92966,
             "longitude": -90.07714
         },
-        "description": "Popular pick for meats, cheeses & brews",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Popular pick for meats, cheeses & brews"
     },
     {    
         "id": 96,
@@ -1820,10 +1534,7 @@
             "latitude": 29.97389,
             "longitude": -90.08056
         },
-        "description": "Low-key pick for vegan soul food",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Low-key pick for vegan soul food"
     },
     {    
         "id": 97,
@@ -1839,10 +1550,7 @@
             "latitude": 29.95727,
             "longitude": -90.06422
         },
-        "description": "Gastropub in a former carriage house",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Gastropub in a former carriage house"
     },
     {
         "id": 98,
@@ -1858,10 +1566,7 @@
             "latitude": 29.90717,
             "longitude": -90.05378
         },
-        "description": "Eatery with pho & traditional Vietnamese",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Eatery with pho & traditional Vietnamese"
     },
     {
         "id": 99,
@@ -1877,10 +1582,7 @@
             "latitude": 29.97572,
             "longitude": -90.09931
         },
-        "description": "Mexican meals in charming surrounds",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Mexican meals in charming surrounds"
     },
     {    
         "id": 100,
@@ -1896,10 +1598,7 @@
             "latitude": 29.94855,
             "longitude": -90.07539
         },
-        "description": "",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Placeholder Text"
     },
     {    
         "id": 101,
@@ -1915,10 +1614,7 @@
             "latitude": 29.95383,
             "longitude": -90.06526
         },
-        "description": "",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Placeholder Text"
     },
     {   
         "id": 102,
@@ -1934,10 +1630,7 @@
             "latitude": 29.96315,
             "longitude": -90.04399
         },
-        "description": "American bistro with a poolside patio",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "American bistro with a poolside patio"
     },
     {   
         "id": 103,
@@ -1953,10 +1646,7 @@
             "latitude": 29.94804,
             "longitude": -90.07542
         },
-        "description": "Health-focused cafe for juices & more",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Health-focused cafe for juices & more"
     },
     {   
         "id": 104,
@@ -1972,10 +1662,7 @@
             "latitude": 29.93531,
             "longitude": -90.10661
         },
-        "description": "",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Placeholder Text"
     },
     {   
         "id":  105,
@@ -1991,10 +1678,7 @@
             "latitude": 30.01314,
             "longitude": -90.05087
         },
-        "description": "Italian & Southern cooking in basic digs",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Italian & Southern cooking in basic digs"
     },
     {   
         "id": 106,
@@ -2010,10 +1694,7 @@
             "latitude": 29.98090,
             "longitude": -90.09451
         },
-        "description": "Meat-focused Cajun eats & rustic setting",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Meat-focused Cajun eats & rustic setting"
     },
     {    
         "id": 107,
@@ -2029,10 +1710,7 @@
             "latitude": 29.95058,
             "longitude": -90.06962
         },
-        "description": "Cajun-Creole cuisine in an upscale space",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Cajun-Creole cuisine in an upscale space"
     },
     {   
         "id": 108,
@@ -2048,10 +1726,7 @@
             "latitude": 29.96767,
             "longitude": -90.10197
         },
-        "description": "",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Placeholder Text"
     },
     {   
         "id": 109,
@@ -2067,10 +1742,7 @@
             "latitude": 29.95514,
             "longitude": -90.06452
         },
-        "description": "longitudetime category with Creole tasting menu",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "longitudetime category with Creole tasting menu"
     },
     {   
         "id": 110,
@@ -2086,10 +1758,7 @@
             "latitude": 29.92740,
             "longitude": -90.07443
         },
-        "description": "Sandwiches & drinks in colourful digs",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Sandwiches & drinks in colourful digs"
     },
     {   
         "id": 111,
@@ -2105,10 +1774,7 @@
             "latitude": 29.93187,
             "longitude": -90.07387
         },
-        "description": "Trendy eatery for Japanese staples",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Trendy eatery for Japanese staples"
     },
     {   
         "id": 112,
@@ -2124,10 +1790,7 @@
             "latitude": 29.97442,
             "longitude": -90.09749
         },
-        "description": "Coastal Med menu in former church digs",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Coastal Med menu in former church digs"
     },
     {   
         "id": 113,
@@ -2143,10 +1806,7 @@
             "latitude": 29.94665,
             "longitude": -90.06780
         },
-        "description": "Casual French locale with a courtyard",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Casual French locale with a courtyard"
     },
     {   
         "id": 114,
@@ -2162,10 +1822,7 @@
             "latitude": 29.97456,
             "longitude": -90.10702
         },
-        "description": "Cozy, comfy breakfast joint",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Cozy, comfy breakfast joint"
     },
     {    
         "id": 115,
@@ -2181,10 +1838,7 @@
             "latitude": 26.96932,
             "longitude": -90.07901
         },
-        "description": "Acclaimed soul-food spot",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Acclaimed soul-food spot"
     },	
     {   
         "id": 116,
@@ -2200,10 +1854,7 @@
             "latitude": 29.92203,
             "longitude": -90.11920
         },
-        "description": "",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Placeholder Text"
     },
     {		
         "id": 117,
@@ -2219,10 +1870,7 @@
             "latitude": 29.97547,
             "longitude": -90.10018
         },
-        "description": "",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Placeholder Text"
     },
     {
         "id": 118,
@@ -2238,10 +1886,7 @@
             "latitude": 29.96506,
             "longitude": -90.05126
         },
-        "description": "",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Placeholder Text"
     },
     {
         "id": 119,
@@ -2257,10 +1902,7 @@
             "latitude": 29.96242,
             "longitude": -90.05740
         },
-        "description": "",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Placeholder Text"
     },
     {
        "id": 120,
@@ -2276,10 +1918,7 @@
            "latitude": 29.95781,
            "longitude": -90.06600
        },
-       "description": "",
-       "isFavorite": false,
-       "isFeatured": false,
-       "imageName": "LogoDark"
+       "description": "Placeholder Text"
     },
     {
         "id": 121,
@@ -2295,10 +1934,7 @@
             "latitude": 29.95764,
             "longitude": -90.06582
         },
-        "description": "",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Placeholder Text"
     },
     {
         "id": 122,
@@ -2314,10 +1950,7 @@
             "latitude": 29.95161,
             "longitude": -90.07283
         },
-        "description": "Sleek lounge with cocktail nibbles",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Sleek lounge with cocktail nibbles"
     },
     {
         "id": 123,
@@ -2333,10 +1966,7 @@
             "latitude": 29.94913,
             "longitude": -90.07309
         },
-        "description": "",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Placeholder Text"
     },
     {
         "id": 124,
@@ -2352,10 +1982,7 @@
             "latitude": 29.94904,
             "longitude": -90.06380
         },
-        "description": "",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Placeholder Text"
     },
     {
         "id": 125,
@@ -2371,10 +1998,7 @@
             "latitude": 29.94875,
             "longitude": -90.06737
         },
-        "description": "Upscale cocktail bar in chic surrounds",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Upscale cocktail bar in chic surrounds"
     },		
     {
         "id": 126,
@@ -2390,10 +2014,7 @@
             "latitude": 29.93811,
             "longitude": -90.07132
         },
-        "description": " ",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Placeholder Text"
     },
     {
         "id": 127,
@@ -2409,10 +2030,7 @@
             "latitude": 29.93497,
             "longitude": -90.10618
         },
-        "description": "Relaxed eatery serving tacos & nachos",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Relaxed eatery serving tacos & nachos"
     },
     {
         "id": 128,
@@ -2428,10 +2046,7 @@
             "latitude": 29.96858,
             "longitude": -90.05743
         },
-        "description": " ",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Placeholder Text"
     },
     {
         "id": 129,
@@ -2447,10 +2062,7 @@
             "latitude": 29.96708,
             "longitude": -90.05493
         },
-        "description": " ",
-        "isFavorite": false,
-        "isFeatured": true,
-        "imageName": "LogoLight"
+        "description": "Placeholder Text"
     },
     {
         "id": 130,
@@ -2466,10 +2078,7 @@
             "latitude": 29.95999,
             "longitude": -90.03319
         },
-        "description": "Backyard bistro at a wine shop",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Backyard bistro at a wine shop"
     },
     {
         "id": 131,
@@ -2485,10 +2094,7 @@
             "latitude": 29.95872,
             "longitude": -90.06942
         },
-        "description": "Refined dining with a garden courtyard",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Refined dining with a garden courtyard"
     },
     {
         "id": 132,
@@ -2504,10 +2110,7 @@
             "latitude": 29.95087,
             "longitude": -90.07450
         },
-        "description": "Stylish wine bar with a leafy patio",
-        "isFavorite": false,
-        "isFeatured": true,
-        "imageName": "LogoDark"
+        "description": "Stylish wine bar with a leafy patio"
     },
     {
         "id": 133,
@@ -2523,10 +2126,7 @@
             "latitude": 29.92769,
             "longitude": -90.09267
         },
-        "description": "Chic wine bar with upscale bites",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Chic wine bar with upscale bites"
     },
     {
         "id": 134,
@@ -2542,10 +2142,7 @@
             "latitude": 29.97217,
             "longitude": -90.09171
         },
-        "description": "Sports bar in a cottage with a porch",
-        "isFavorite": false,
-        "isFeatured": true,
-        "imageName": "LogoDark"
+        "description": "Sports bar in a cottage with a porch"
     },
     {
         "id": 135,
@@ -2561,10 +2158,7 @@
             "latitude": 29.93705,
             "longitude": -90.07685
         },
-        "description": "Craft beers galore & upscale pub grub",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Craft beers galore & upscale pub grub"
     },
     {
         "id": 136,
@@ -2580,10 +2174,7 @@
             "latitude": 29.96396,
             "longitude": -90.04716
         },
-        "description": " ",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Placeholder Text"
     },
     {
         "id": 137,
@@ -2599,10 +2190,7 @@
             "latitude": 29.93913,
             "longitude": -90.06871
         },
-        "description": "Cake & cocktails in a rustic setting",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Cake & cocktails in a rustic setting"
     },
     {
         "id": 138,
@@ -2618,10 +2206,7 @@
             "latitude": 29.92141,
             "longitude": -90.11701
         },
-        "description": "Cozy pub with a patio & church decor",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Cozy pub with a patio & church decor"
     },
     {
         "id": 139,
@@ -2637,10 +2222,7 @@
             "latitude": 29.93524,
             "longitude": -90.10743
         },
-        "description": "Stylish lounge with craft cocktails",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Stylish lounge with craft cocktails"
     },
     {
         "id": 140,
@@ -2656,10 +2238,7 @@
             "latitude": 29.95224,
             "longitude": -90.09763
         },
-        "description": " ",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Placeholder Text"
     },
     {
         "id": 141,
@@ -2675,10 +2254,7 @@
             "latitude": 29.92741,
             "longitude": -90.09615
         },
-        "description": "Ornate 1883 lodging with a bistro",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Ornate 1883 lodging with a bistro"
     },
     {
         "id": 142,
@@ -2694,10 +2270,7 @@
             "latitude": 29.97163,
             "longitude": -90.09120
         },
-        "description": "Cozy wine bar with Southern-style bites",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Cozy wine bar with Southern-style bites"
     },
     {
         "id": 143,
@@ -2713,10 +2286,7 @@
             "latitude": 29.93530,
             "longitude": -90.07975
         },
-        "description": "Cool rooftop bar for cocktails & view",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Cool rooftop bar for cocktails & view"
     },
     {
         "id": 144,
@@ -2732,10 +2302,7 @@
             "latitude": 29.95345,
             "longitude": -90.07438
         },
-        "description": "Funky rooftop bar for cocktails & bites",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Funky rooftop bar for cocktails & bites"
     },
     {
         "id": 145,
@@ -2751,10 +2318,7 @@
             "latitude": 29.95956,
             "longitude": -90.06093
         },
-        "description": "Chill bar with a patio & a big beer menu",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Chill bar with a patio & a big beer menu"
     },
     {
         "id": 146,
@@ -2770,10 +2334,7 @@
             "latitude": 29.96089,
             "longitude": -90.03394
         },
-        "description": "Funky, microbrew taproom with a patio",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Funky, microbrew taproom with a patio"
     },
     {
         "id": 147,
@@ -2789,10 +2350,7 @@
             "latitude": 29.95198,
             "longitude": -90.07318
         },
-        "description": " ",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Placeholder Text"
     },
     {
         "id": 148,
@@ -2808,10 +2366,7 @@
             "latitude": 29.95216,
             "longitude": -90.07276
         },
-        "description": " ",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Placeholder Text"
     },
     {
         "id": 149,
@@ -2827,10 +2382,7 @@
             "latitude": 29.94855,
             "longitude": -90.07222
         },
-        "description": " ",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Placeholder Text"
     },
     {
         "id": 150,
@@ -2846,10 +2398,7 @@
             "latitude": 29.94275,
             "longitude": -90.06974
         },
-        "description": " ",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Placeholder Text"
     },
     {
         "id": 151,
@@ -2865,10 +2414,7 @@
             "latitude": 29.95680,
             "longitude": -90.06761
         },
-        "description": "Relaxed eatery for Cajun & Creole dishes",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Relaxed eatery for Cajun & Creole dishes"
     },
     {
         "id": 152,
@@ -2884,10 +2430,7 @@
             "latitude": 29.91141,
             "longitude": -90.22940 
         },
-        "description": "Nothing-fancy place serving heart portions of family-style Italian fare sine 1946",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Nothing-fancy place serving heart portions of family-style Italian fare sine 1946"
     },
     {
         "id": 153,
@@ -2903,10 +2446,7 @@
             "latitude": 29.93838,
             "longitude": -90.19589
         },
-        "description": "Popular, contemporary Italian restaurant serving rustic pastas, seafood, wood-fired pizzas & wine.",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Popular, contemporary Italian restaurant serving rustic pastas, seafood, wood-fired pizzas & wine."
     },
     {
         "id": 154,
@@ -2922,10 +2462,7 @@
             "latitude": 29.97893,
             "longitude": -90.10215
         },
-        "description": "Placeholder Text",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Placeholder Text"
     },
     {
         "id": 155,
@@ -2941,10 +2478,7 @@
             "latitude": 29.95776,
             "longitude": -90.07078
         },
-        "description": "Relaxed, brick-lined eatery serving local, Mexican & Carribean cuisine, plus wine & craft cocktails.",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Relaxed, brick-lined eatery serving local, Mexican & Carribean cuisine, plus wine & craft cocktails."
     },
     {
         "id": 156,
@@ -2960,10 +2494,7 @@
             "latitude": 29.95410,
             "longitude": -90.07611
         },
-        "description": " ",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Placeholder Text"
     },
     {
         "id": 157,
@@ -2979,10 +2510,7 @@
             "latitude": 29.94917,
             "longitude": -90.06383
         },
-        "description": "Placeholder Text",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Placeholder Text"
     },
     {
         "id": 158,
@@ -2998,10 +2526,7 @@
             "latitude": 29.94862,
             "longitude": -90.07545
         },
-        "description": "Placeholder Text",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Placeholder Text"
     },
     {
         "id": 159,
@@ -3017,10 +2542,7 @@
             "latitude": 29.94860,
             "longitude": -90.13070
         },
-        "description": "Placeholder Text",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Placeholder Text"
     },
     {
         "id": 160,
@@ -3036,10 +2558,7 @@
             "latitude": 29.91869,
             "longitude": -90.11669
         },
-        "description": "Placeholder Text",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Placeholder Text"
     },
     {
         "id": 161,
@@ -3055,10 +2574,7 @@
             "latitude": 29.91683,
             "longitude": -90.06135
         },
-        "description": "Placeholder Text",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Placeholder Text"
     },
     {
         "id": 162,
@@ -3074,10 +2590,7 @@
             "latitude": 29.91261,
             "longitude": -90.06444
         },
-        "description": "Placeholder Text",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Placeholder Text"
     },
     {
         "id": 163,
@@ -3093,10 +2606,7 @@
             "latitude": 29.94424,
             "longitude": -90.05240
         },
-        "description": "Placeholder Text",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Placeholder Text"
     },
     {
         "id": 164,
@@ -3112,10 +2622,7 @@
             "latitude": 29.96314,
             "longitude": -90.04802
         },
-        "description": "American restaurant & cocktail bar in a big brick building using seasonal & locally reared produce.",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "American restaurant & cocktail bar in a big brick building using seasonal & locally reared produce."
     },
     {
         "id": 165,
@@ -3131,10 +2638,7 @@
             "latitude": 29.94200,
             "longitude": -90.13236
         },
-        "description": "Southern Italian spot for red-sauce pastas, crab bisque & other classic fare in an old-world space.",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Southern Italian spot for red-sauce pastas, crab bisque & other classic fare in an old-world space."
     },
     {
         "id": 166,
@@ -3150,10 +2654,7 @@
             "latitude": 29.92187,
             "longitude": -90.12015
         },
-        "description": "Sophisticated destination serving seasonal Italian dishes & cocktails in a handsome space.",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Sophisticated destination serving seasonal Italian dishes & cocktails in a handsome space."
     },
     {
         "id": 167,
@@ -3169,10 +2670,7 @@
             "latitude": 30.00566,
             "longitude": -90.11902
         },
-        "description": "Placeholder Text",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Placeholder Text"
     },
     {
         "id": 168,
@@ -3188,10 +2686,7 @@
             "latitude": 29.97523,
             "longitude": -90.09967
         },
-        "description": "Family-friendly place for classic, old-school Italian fare including pizza.",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Family-friendly place for classic, old-school Italian fare including pizza."
     },
     {
         "id": 169,
@@ -3207,10 +2702,7 @@
             "latitude": 29.93418,
             "longitude": -90.07287
         },
-        "description": "Placeholder Text",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Placeholder Text"
     },
     {
         "id": 170,
@@ -3226,10 +2718,7 @@
             "latitude": 29.94855,
             "longitude": -90.07198
         },
-        "description": "Southern-inspired Italian meals & wine served in a soaring dining room with ornate decor.",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Southern-inspired Italian meals & wine served in a soaring dining room with ornate decor."
     },
     {
         "id": 171,
@@ -3245,10 +2734,7 @@
             "latitude": 29.94572,
             "longitude": -9006971
         },
-        "description": "Restaurant serving handmade pasta, wood-fired pizza & Italian cuisine amid informal surrounds.",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Restaurant serving handmade pasta, wood-fired pizza & Italian cuisine amid informal surrounds."
     },
     {
         "id": 172,
@@ -3264,10 +2750,7 @@
             "latitude": 29.94690,
             "longitude": -90.06881
         },
-        "description": "Cheery outpost serving rustic wood-fired Italian fare with a Southern twist, plus wine & cocktails.",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Cheery outpost serving rustic wood-fired Italian fare with a Southern twist, plus wine & cocktails."
     },
     {
         "id": 173,
@@ -3283,10 +2766,7 @@
             "latitude":29.95427,
             "longitude": -90.06609
         },
-        "description": "Upscale Italian classics draw crowds to this homey yet elegant dining room with a piano bar.",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Upscale Italian classics draw crowds to this homey yet elegant dining room with a piano bar."
     },
     {
         "id": 174,
@@ -3302,10 +2782,7 @@
             "latitude": 29.96239,
             "longitude": -90.06087
         },
-        "description": "Simple Italian dishes & pizza in an intimate, laid-back space hung with 'Mona Lisa' portraits.",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoLight"
+        "description": "Simple Italian dishes & pizza in an intimate, laid-back space hung with 'Mona Lisa' portraits."
     },
     {
         "id": 175,
@@ -3321,10 +2798,7 @@
             "latitude": 29.96159,
             "longitude": -90.05868
         },
-        "description": "Tiny, romantic spot (reservations recommended) for creative Northern Italian fare.",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Tiny, romantic spot (reservations recommended) for creative Northern Italian fare."
     },
     {
         "id": 176,
@@ -3340,10 +2814,7 @@
             "latitude": 29.96398,
             "longitude": -90.05769
         },
-        "description": "Bustling restaurant serves Italian fare with Cajun-Creole flair in a quaint, small setting.",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Bustling restaurant serves Italian fare with Cajun-Creole flair in a quaint, small setting."
     },
     {
         "id": 177,
@@ -3359,10 +2830,7 @@
             "latitude": 29.96305,
             "longitude": -90.05489
         },
-        "description": "Local & imported talent helm the kitchen at this sleek spot serving pizzas, pastas & seasonal sides.",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Local & imported talent helm the kitchen at this sleek spot serving pizzas, pastas & seasonal sides."
     },
     {
         "id": 178,
@@ -3378,10 +2846,7 @@
             "latitude": 29.96866,
             "longitude": -90.05501
         },
-        "description": "Laid-back Italian eatery specializing in build-your-own pasta dishes with various sauces & add-ons.",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Laid-back Italian eatery specializing in build-your-own pasta dishes with various sauces & add-ons."
     },
     {
         "id": 179,
@@ -3397,10 +2862,7 @@
             "latitude": 29.91964,
             "longitude": -90.04506
         },
-        "description": "Restaurant with a seafood-focused Southern Italian menu & a cozy space with piano music on weekends.",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Restaurant with a seafood-focused Southern Italian menu & a cozy space with piano music on weekends."
     },
     {
         "id": 180,
@@ -3416,10 +2878,7 @@
             "latitude": 29.93925,
             "longitude": -89.97095
         },
-        "description": "Big portions of down-home Creole-Italian fare like mac 'n' cheese in a retro 1950s-styled space.",
-        "isFavorite": false,
-        "isFeatured":  false,
-        "imageName": "LogoDark"
+        "description": "Big portions of down-home Creole-Italian fare like mac 'n' cheese in a retro 1950s-styled space."
     },
     {
         "id": 181,
@@ -3435,9 +2894,7 @@
             "latitude": 29.96198,
             "longitude": -90.22213
         },
-        "description": "Straightforward Japanese outpost in everyday digs, offering sushi, noodle dishes & hibachi.",
-        "isFavorite": false,
-        "isFeatured": false
+        "description": "Straightforward Japanese outpost in everyday digs, offering sushi, noodle dishes & hibachi."
     },
     {
         "id": 182,
@@ -3453,10 +2910,7 @@
             "latitude": 29.96483,
             "longitude": -90.19444
         },
-        "description": "This unassuming strip-mall spt offers sashimi, creatvie maki & Japanese kitchen entrees, plus sake.",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "This unassuming strip-mall spt offers sashimi, creatvie maki & Japanese kitchen entrees, plus sake."
     },
     {
         "id": 183,
@@ -3472,10 +2926,7 @@
             "latitude": 29.94969,
             "longitude": -90.18131
         },
-        "description": "Placeholder Text",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Placeholder Text"
     },
     {
         "id": 184,
@@ -3491,10 +2942,7 @@
             "latitude": 30.00431,
             "longitude": -90.17702
         },
-        "description": "Placeholder Text",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Placeholder Text"  
     },
     {
         "id": 185,
@@ -3510,9 +2958,150 @@
             "latitude": 30.00728,
             "longitude": -90.15997
         },
-        "description": "Small Japanese restaurant known for inventive sushi rolls in a strip-mall setting.",
-        "isFavorite": false,
-        "isFeatured": false,
-        "imageName": "LogoDark"
+        "description": "Small Japanese restaurant known for inventive sushi rolls in a strip-mall setting."
+    },
+    {
+        "id": 186,
+        "name": "8 Fresh Food Assassin",
+        "address": "1900 N. Claiborne Ave.",
+        "city": "New Orleans",
+        "state": "LA",
+        "zipcode": "70116",
+        "neighborhood": "Seventh Ward",
+        "type": "American",
+        "category": "Restaurant",
+        "coordinates": {
+            "latitude": 29.97996,
+            "longitude": -90.06201
+        },
+        "description": "Placeholder Text",
+    },
+    {
+        "id": 187,
+        "name": "14 Parishes",
+        "address": "8227 Oak St.",
+        "city": "New Orleans",
+        "state": "LA",
+        "zipcode": "70118",
+        "neighborhood": "Uptown",
+        "type": "Jamaican",
+        "category": "Restaurant",
+        "coordinates": {
+            "latitude": 29.94889,
+            "longitude": -90.13113
+        },
+        "description": "Placeholder Text"
+    },
+    {
+        "id": 188,
+        "name": "Abita Brew Pub",
+        "address": "72011 Holly St.",
+        "city": "Abita Springs",
+        "state": "LA",
+        "zipcode": "70420",
+        "neighborhood": "Northern Louisiana",
+        "type":"Beer Garden",
+        "category": "Bar",
+        "coordinates": {
+            "latitude": 30.48058,
+            "longitude": -90.03961
+        },
+        "description": "Featuring abita beers not sold in stores an traditional bar snacks" 
+    },
+    {
+        "id": 189,
+        "name": "Afrodisiac",
+        "address": "5363 Franklin Ave",
+        "city": "New Orleans",
+        "state": "LA",
+        "zipcode": "70122",
+        "neighborhood": "Gentilly",
+        "type": "Fusion",
+        "category": "Restaurant",
+        "coordinates": {
+            "latitude": 30.01482,
+            "longitude": -90.05158
+        },
+        "description": "Gentilly restaurant blends Creole- and Jamaican-inspired dishes" 
+    },
+    {
+        "id": 190,
+        "name": "Almasgoof",
+        "address": "5024 West Esplanade Ave",
+        "city": "Metairie",
+        "state": "LA",
+        "zipcode": "70006",
+        "neighborhood": "Metairie",
+        "type": "Iraqi",
+        "category": "Restaurant",
+        "coordinates": {
+            "latitude": 30.01685,
+            "longitude": -90.19878
+        },
+        "description": "Iraqi restaurant serving sandwiches, manakish, shawarma and more. Its specialty is fish almasgoof."
+    },
+    {
+        "id": 191,
+        "name": "Angelo Brocato",
+        "address": "214 N. Carrollton Ave.",
+        "city": "New Orleans",
+        "state": "LA",
+        "zipcode": "70119",
+        "neighborhood": "Mid City",
+        "type": "Gelateria",
+        "category": "Restaurant",
+        "coordinates": {
+            "latitude": 29.97703,
+            "longitude": -90.09909
+        },
+        "description": "Institution since 1905 for gelato & Italian desserts in a nostalgic, pastel-link parlor setting"
+    },
+    {
+        "id": 192,
+        "name": "Annuciation",
+        "address": "1016 Annuciation St",
+        "city": "New Orleans",
+        "state": "LA",
+        "zipcode": "70130",
+        "neighborhood": "Downtown",
+        "type": "Local",
+        "category": "Restaurant",
+        "coordinates": {
+            "latitude": 29.94382,
+            "longitude": -90.06768
+        },
+        "description": "Renovated historic space is now an upscale, white-tablecloth restaurant for modern Creole fare"
+    },
+    {
+        "id": 193,
+        "name": "August",
+        "address": "301 Tchoupitoulas St",
+        "city": "New Orleans",
+        "state": "LA",
+        "zipcode": "70130",
+        "neighborhood": "Downtown",
+        "type": "Creole",
+        "category": "Restaurant",
+        "coordinates": {
+            "latitude": 29.95094,
+            "longitude": -90.06679
+        },
+        "description": "New French fare at a smart restaurant in a chandelier-studded 19th-century space."
+    },
+    {
+        "id": 194,
+        "name": "Backatown Coffee Parlour",
+        "address": "301 Basin St, Suite 1",
+        "city": "New Orleans",
+        "state": "LA",
+        "zipcode": "70112",
+        "neighborhood": "Downtown",
+        "type": "Coffee Shop",
+        "category": "Restaurant",
+        "coordinates": {
+            "latitude": 29.95960,
+            "longitude": -90.07167
+        },
+        "description": "Light-filled shop serving espresso drinks, tea & sandwiches amid leather sofas & colorful murals"
     }
 ]
