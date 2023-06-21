@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Essence Festival of Culture",
+        "dates": {
+            "start": "June 30, 2023",
+            "end": "July 3, 2023"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Tales of the Cocktail",
+        "dates": {
+            "start": "July 23, 2023",
+            "end": "July 28, 2023"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Beignet Fest",
+        "dates": {
+            "start": "September 23, 2023",
+            "end": "September 23, 2023"
+        }
+    }
+]
