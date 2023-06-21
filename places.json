@@ -149,7 +149,8 @@
             "latitude": 29.92382,
             "longitude": -90.08695
         },
-        "description": "Louisiana fare in a 200-year-old cottage"
+        "description": "Louisiana fare in a 200-year-old cottage",
+        "features": ["Lunch"]
     },
     {    
         "id": 10,
@@ -1026,7 +1027,7 @@
             "longitude": -90.06782
         },
         "description": "Creole spot offering classic soul food",
-        "features": ["Essential"]
+        "features": ["Essential", "Lunch"]
     },
     {
         "id": 63,
@@ -2297,7 +2298,8 @@
             "latitude": 29.93524,
             "longitude": -90.10743
         },
-        "description": "Stylish lounge with craft cocktails"
+        "description": "Stylish lounge with craft cocktails",
+        "features": ["Essential"]
     },
     {
         "id": 140,
@@ -2330,7 +2332,7 @@
             "longitude": -90.09615
         },
         "description": "Ornate 1883 lodging with a bistro",
-        "features": [""]
+        "features": ["Essential"]
     },
     {
         "id": 142,
@@ -4243,5 +4245,73 @@
         },
         "description": "Placeholder Text",
         "features": ["24 hours"]
+    },
+    {
+        "id": 257,
+        "name": "Finn McCool's Irish Pub",
+        "address": "3701 Banks St",
+        "city": "New Orleans",
+        "state": "LA",
+        "zipcode": "70119",
+        "neighborhood": "Mid City",
+        "type": "Pub",
+        "category": "Bar",
+        "coordinates": {
+            "latitude": 29.96974,
+            "longitude": -90.09917
+        },
+        "description": "Sports on TV, pool & busy trivia nights in an Irish pub setting that can get crowded on game day",
+        "features": ["Essential"]
+    },
+    {
+        "id": 258,
+        "name": "Pal's Lounge",
+        "address": "949 N Rendon St",
+        "city": "New Orleans",
+        "state": "LA",
+        "zipcode": "70119",
+        "neighborhood": "Mid City",
+        "type": "Local",
+        "category": "Bar",
+        "coordinates": {
+            "latitude": 29.97686,
+            "longitude": -90.08634
+        },
+        "description": "Placeholder Text",
+        "features": ["Essential"]
+    },
+    {
+        "id": 259,
+        "name": "Galatoire's",
+        "address": "209 Bourbon St",
+        "city": "New Orleans",
+        "state": "LA",
+        "zipcode": "70130",
+        "neighborhood": "French Quarter",
+        "type": "Local",
+        "category": "Restaurant",
+        "coordinates": {
+            "latitude": 29.95515,
+            "longitude": -90.06904
+        },
+        "description": "Fine-dining century-old institution serving French-Creole fare in upscale (jackets required)",
+        "features": ["Essential", "Lunch"]
+    },
+    {
+        "id": 260,
+        "name": "Cochon Butcher",
+        "address": "930 Tchoupitoulas St",
+        "city": "New Orleans",
+        "state": "LA",
+        "zipcode": "70130",
+        "neighborhood": "Downtown",
+        "type": "Cajun",
+        "category": "Restaurant",
+        "coordinates": {
+            "latitude": 29.94249,
+            "longitude": -90.06732
+        },
+        "description": "Lauded choice in charming, historic digs specializing in pork dishes & imaginative Cajun eats.",
+        "features": ["Lunch"]
     }
 ]

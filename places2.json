@@ -1,5 +1,36 @@
 [
     {
-        
+        "id": 1,
+        "name": "The Beach House Kitchen and Cocktails",
+        "address": "1154 W Beach Blvd #6200",
+        "city": "Gulf Shores",
+        "state": "AL",
+        "zipcode": "36542",
+        "neighborhood": "Gulf Shores",
+        "type": "Carribbean",
+        "category": "Restaurant",
+        "coordinates": {
+            "latitude": 30.24509,
+            "longitude": -87.71644
+        },
+        "description": "Placeholder Text",
+        "features": [""]
+    },
+    {
+        "id": 2,
+        "name": "Pink Pony Pub",
+        "address": "137 E Gulf Pl",
+        "city": "Gulf Shores",
+        "state": "AL",
+        "zipcode": "36542",
+        "neighborhood": "Gulf Shores",
+        "type": "Beach Bar",
+        "category": "Bar",
+        "coordinates": {
+            "latitude": 30.24798,
+            "longitude": -87.68752
+        },
+        "description": "Late-night party spot featuring seafood & bar bites in casual digs perched right on the sand.",
+        "features": [""]
     }
 ]
