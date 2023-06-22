@@ -2929,7 +2929,8 @@
             "latitude": 29.96305,
             "longitude": -90.05489
         },
-        "description": "Local & imported talent helm the kitchen at this sleek spot serving pizzas, pastas & seasonal sides."
+        "description": "Local & imported talent helm the kitchen at this sleek spot serving pizzas, pastas & seasonal sides.",
+        "features": ["Pizza"]
     },
     {
         "id": 178,
@@ -4562,5 +4563,158 @@
         },
         "description": "Placeholder Text",
         "features": ["Pizza"]
+    },
+    {
+        "id": 275,
+        "name": "Pizza Delicious",
+        "address": "617 Piety St",
+        "city": "New Orleans",
+        "state": "LA",
+        "zipcode": "70117",
+        "neighborhood": "Bywater",
+        "type": "Pizzeria",
+        "category": "Restaurant",
+        "coordinates": {
+            "latitude": 29.96266,
+            "longitude": -90.04286
+        },
+        "description": "Casual counter-serve restaurant with thin-crust pizza, beer & a decidedly hipster ambiance",
+        "features": ["Pizza"]
+    },
+    {
+        "id": 276,
+        "name": "Pho Nola",
+        "address": "3320 Transcontinental Dr",
+        "city": "Metairie",
+        "state": "LA",
+        "zipcode": "70006",
+        "neighborhood": "Metairie",
+        "type": "Vietnamese",
+        "category": "Restaurant",
+        "coordinates": {
+            "latitude": 30.00690,
+            "longitude": -90.19586
+        },
+        "description": "Traditional Vietnamese dishes like pho & banh mi, plus bubble tea, in a simple strip-mall setting.",
+        "features": ["Pizza"]
+    },
+    {
+        "id": 277,
+        "name": "Banh Mi Boys",
+        "address": "5001 Airline Dr",
+        "city": "Metairie",
+        "state": "LA",
+        "zipcode": "70001",
+        "neighborhood": "Metairie",
+        "type": "Vietnamese",
+        "category": "Restaurant",
+        "coordinates": {
+            "latitude": 29.97667,
+            "longitude": -90.18659
+        },
+        "description": "Placeholder Text",
+        "features": [""]
+    },
+    {
+        "id": 278,
+        "name": "Singleton's Mini Mart",
+        "address": "7446 Garfield St #3635",
+        "city": "New Orleans",
+        "state": "LA",
+        "zipcode": "70118",
+        "neighborhood": "CBD",
+        "type": "Vietnamese",
+        "category": "Restaurant",
+        "coordinates": {
+            "latitude": 29.93547,
+            "longitude": -90.13235
+        },
+        "description": "Placeholder Text",
+        "features": [""]
+    },
+    {
+        "id": 279,
+        "name": "Ba Chi Canteen",
+        "address": "7900 Maple St",
+        "city": "New Orleans",
+        "state": "LA",
+        "zipcode": "70118",
+        "neighborhood": "Uptown",
+        "type": "Vietnamese",
+        "category": "Restaurant",
+        "coordinates": {
+            "latitude": 29.94340,
+            "longitude": -90.13108
+        },
+        "description": "Placeholder Text",
+        "features": [""]
+    },
+    {
+        "id": 280,
+        "name": "Rolls-N-Bowls",
+        "address": "605 Metairie Rd",
+        "city": "Metairie",
+        "state": "LA",
+        "zipcode": "70005",
+        "neighborhood": "Old Metairie",
+        "type": "Vietnamese",
+        "category": "Restaurant",
+        "coordinates": {
+            "latitude": 29.98745,
+            "longitude": -90.12986
+        },
+        "description": "Placeholder Text",
+        "features": [""]
+    },
+    {
+        "id": 281,
+        "name": "Mint Modern Vietnamese",
+        "address": "5100 Freret St",
+        "city": "New Orleans",
+        "state": "LA",
+        "zipcode": "70115",
+        "neighborhood": "Uptown",
+        "type": "Vietnamese",
+        "category": "Restaurant",
+        "coordinates": {
+            "latitude": 29.93519,
+            "longitude": -90.10943
+        },
+        "description": "Placeholder Text",
+        "features": [""]
+    },
+    {
+        "id": 282,
+        "name": "Le's Baguette Banh Mi Cafe",
+        "address": "5529, 4607 Dryades St",
+        "city": "New Orleans",
+        "state": "LA",
+        "zipcode": "70115",
+        "neighborhood": "Uptown",
+        "type": "Vietnamese",
+        "category": "Restaurant",
+        "coordinates": {
+            "latitude": 29.92943,
+            "longitude": -90.10499
+        },
+        "description": "Placeholder Text",
+        "features": [""]
+    },
+    {
+        "id": 283,
+        "name": "Café Minh",
+        "address": "4139 Canal St",
+        "city": "New Orleans",
+        "state": "LA",
+        "zipcode": "70119",
+        "neighborhood": "Central City",
+        "type": "Vietnamese",
+        "category": "Restaurant",
+        "coordinates": {
+            "latitude": 29.97552,
+            "longitude": -90.10133
+        },
+        "description": "Creative & sophisticated Vietnamese-French fare in a white-tablesloth bistro space.",
+        "features": [""]
     }
 ]
