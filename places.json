@@ -1137,13 +1137,14 @@
         "state": "LA",	
         "zipcode": "70116",	
         "neighborhood": "Bywater",	
-        "type": "Pizza",
+        "type": "Pizzeria",
         "category": "Restaurant",
         "coordinates": {
             "latitude": 29.97058,
             "longitude": -90.05822
         },
-        "description": "Placeholder Text"
+        "description": "Placeholder Text",
+        "features": ["Pizza"]
     },
     {    
         "id": 70,
@@ -2531,7 +2532,8 @@
             "latitude": 29.93838,
             "longitude": -90.19589
         },
-        "description": "Popular, contemporary Italian restaurant serving rustic pastas, seafood, wood-fired pizzas & wine."
+        "description": "Popular, contemporary Italian restaurant serving rustic pastas, seafood, wood-fired pizzas & wine.",
+        "features": ["Pizza"]
     },
     {
         "id": 154,
@@ -2991,7 +2993,8 @@
             "latitude": 29.96198,
             "longitude": -90.22213
         },
-        "description": "Straightforward Japanese outpost in everyday digs, offering sushi, noodle dishes & hibachi."
+        "description": "Straightforward Japanese outpost in everyday digs, offering sushi, noodle dishes & hibachi.",
+        "features": [""]
     },
     {
         "id": 182,
@@ -3007,7 +3010,8 @@
             "latitude": 29.96483,
             "longitude": -90.19444
         },
-        "description": "This unassuming strip-mall spt offers sashimi, creatvie maki & Japanese kitchen entrees, plus sake."
+        "description": "This unassuming strip-mall spt offers sashimi, creatvie maki & Japanese kitchen entrees, plus sake.",
+        "features": [""]
     },
     {
         "id": 183,
@@ -3023,7 +3027,8 @@
             "latitude": 29.94969,
             "longitude": -90.18131
         },
-        "description": "Placeholder Text"
+        "description": "Placeholder Text",
+        "features": [""]
     },
     {
         "id": 184,
@@ -3039,7 +3044,8 @@
             "latitude": 30.00431,
             "longitude": -90.17702
         },
-        "description": "Placeholder Text"  
+        "description": "Placeholder Text",
+        "features": [""]
     },
     {
         "id": 185,
@@ -3055,7 +3061,8 @@
             "latitude": 30.00728,
             "longitude": -90.15997
         },
-        "description": "Small Japanese restaurant known for inventive sushi rolls in a strip-mall setting."
+        "description": "Small Japanese restaurant known for inventive sushi rolls in a strip-mall setting.",
+        "features": [""]
     },
     {
         "id": 186,
@@ -3071,7 +3078,8 @@
             "latitude": 29.97996,
             "longitude": -90.06201
         },
-        "description": "Placeholder Text"
+        "description": "Placeholder Text",
+        "features": [""]
     },
     {
         "id": 187,
@@ -3781,13 +3789,14 @@
         "state": "LA",
         "zipcode": "70001",
         "neighborhood": "Metairie",
-        "type": "Pizza",
+        "type": "Pizzeria",
         "category": "Restaurant",
         "coordinates": {
             "latitude": 29.98315,
             "longitude": -90.17904
         },
-        "description": "Chicago-style deep-dish & New York thin-crust pizza plus pasta in a casual, family-friendly space."
+        "description": "Chicago-style deep-dish & New York thin-crust pizza plus pasta in a casual, family-friendly space.",
+        "features": ["Pizza"]
     },
     {
         "id": 231,
@@ -3797,13 +3806,14 @@
         "state": "LA",
         "zipcode": "70002",
         "neighborhood": "Metairie",
-        "type": "Pizza",
+        "type": "Pizzeria",
         "category": "Restaurant",
         "coordinates": {
             "latitude": 30.00198,
             "longitude": -90.14641
         },
-        "description": "Old-fashioned hand-tossed pizza & salads served up in a basic, family-friendly space with a jukebox."
+        "description": "Old-fashioned hand-tossed pizza & salads served up in a basic, family-friendly space with a jukebox.",
+        "features": ["Pizza"]
     },
     {
         "id": 232,
@@ -3813,13 +3823,14 @@
         "state": "LA",
         "zipcode": "70094",
         "neighborhood": "Westbank",
-        "type": "Pizza",
+        "type": "Pizzeria",
         "category": "Restaurant",
         "coordinates": {
             "latitude": 29.89658,
             "longitude": -90.14496
         },
-        "description": "No-frills, counter-serve spot with table seating for thin-crust pizzas, calzones, lasagna & beers."
+        "description": "No-frills, counter-serve spot with table seating for thin-crust pizzas, calzones, lasagna & beers.",
+        "features": ["Pizza"]
     },
     {
         "id": 233,
@@ -4313,5 +4324,243 @@
         },
         "description": "Lauded choice in charming, historic digs specializing in pork dishes & imaginative Cajun eats.",
         "features": ["Lunch"]
+    },
+    {
+        "id": 261,
+        "name": "Yakuza House",
+        "address": "2740 Severn Ave",
+        "city": "Metairie",
+        "state": "LA",
+        "zipcode": "70002",
+        "neighborhood": "Metairie",
+        "type": "Sushi",
+        "category": "Restaurant",
+        "coordinates": {
+            "latitude": 30.00169,
+            "longitude": -90.15991
+        },
+        "description": "Placeholder Text",
+        "features": [""]
+    },
+    {
+        "id": 262,
+        "name": "Shogun",
+        "address": "2325 Veterans Memorial Blvd",
+        "city": "Metairie",
+        "state": "LA",
+        "zipcode": "70002",
+        "neighborhood": "Metairie",
+        "type": "Sushi",
+        "category": "Restaurant",
+        "coordinates": {
+            "latitude": 30.00351,
+            "longitude": -90.14861
+        },
+        "description": "Upscale Japanese steakhouse with a lively hibachi area, a sushi bar & cocktails.",
+        "features": [""]
+    },
+    {
+        "id": 263,
+        "name": "Mikimoto",
+        "address": "3301 S Carrollton Ave",
+        "city": "New Orleans",
+        "state": "LA",
+        "zipcode": "70118",
+        "neighborhood": "Mid City",
+        "type": "Sushi",
+        "category": "Restaurant",
+        "coordinates": {
+            "latitude": 29.96255,
+            "longitude": -90.11327
+        },
+        "description": "Japanese far & generous, Louisiana-accented sushi rolls in a cozy space, plus a drive-thru",
+        "features": [""]
+    },
+    {
+        "id": 264,
+        "name": "Origami Restaurant",
+        "address": "5130 Freret St",
+        "city": "New Orleans",
+        "state": "LA",
+        "zipcode": "70115",
+        "neighborhood": "Uptown",
+        "type": "Sushi",
+        "category": "Restaurant",
+        "coordinates": {
+            "latitude": 29.93503,
+            "longitude": -90.11011
+        },
+        "description": "Placeholder Text",
+        "features": [""]
+    },
+    {
+        "id": 265,
+        "name": "Asuka Sushi & Hibachi",
+        "address": "4600 Washington Ave",
+        "city": "New Orleans",
+        "state": "LA",
+        "zipcode": "70125",
+        "neighborhood": "Mid City",
+        "type": "Sushi",
+        "category": "Restaurant",
+        "coordinates": {
+            "latitude": 29.95968,
+            "longitude": -90.10532
+        },
+        "description": "Placeholder Text",
+        "features": [""]
+    },
+    {
+        "id": 266,
+        "name": "Sake Cafe Uptown",
+        "address": "2830 Magazine St",
+        "city": "New Orleans",
+        "state": "LA",
+        "zipcode": "70115",
+        "neighborhood": "Uptown",
+        "type": "Sushi",
+        "category": "Restaurant",
+        "coordinates": {
+            "latitude": 29.92588,
+            "longitude": -90.08311
+        },
+        "description": "Placeholder Text",
+        "features": [""]
+    },
+    {
+        "id": 267,
+        "name": "Bisutoro",
+        "address": "1581 Magazine St",
+        "city": "New Orleans",
+        "state": "LA",
+        "zipcode": "70130",
+        "neighborhood": "Garden District",
+        "type": "Sushi",
+        "category": "Restaurant",
+        "coordinates": {
+            "latitude": 29.93305,
+            "longitude": -90.07313
+        },
+        "description": "Placeholder Text",
+        "features": [""]
+    },
+    {
+        "id": 268,
+        "name": "Ciro's Côté Sud",
+        "address": "7918 Maple St",
+        "city": "New Orleans",
+        "state": "LA",
+        "zipcode": "70118",
+        "neighborhood": "Uptown",
+        "type": "French",
+        "category": "Restaurant",
+        "coordinates": {
+            "latitude": 29.94358,
+            "longitude": -90.13160
+        },
+        "description": "Placeholder Text",
+        "features": ["Pizza"]
+    },
+    {
+        "id": 269,
+        "name": "Midway Pizza",
+        "address": "4725 Freret St",
+        "city":"New Orleans",
+        "state": "LA",
+        "zipcode": "70115",
+        "neighborhood": "Uptown",
+        "type": "Pizzeria",
+        "category": "Restaurant",
+        "coordinates": {
+            "latitude": 29.93519,
+            "longitude": -90.10714
+        },
+        "description": "Placeholder Text",
+        "features": ["Pizza"]
+    },
+    {
+        "id": 270,
+        "name": "Ancora Pizzeria",
+        "address": "4508 Freret St",
+        "city": "New Orleans",
+        "state": "LA",
+        "zipcode": "70115",
+        "neighborhood": "Uptown",
+        "type": "Pizzeria",
+        "category": "Restaurant",
+        "coordinates": {
+            "latitude": 29.93525,
+            "longitude": -90.10446
+        },
+        "description": "Neopolitan pizza from an imported wood-burning oven plus cocktails in a hip, modern space.",
+        "features": ["Pizza"]
+    },
+    {
+        "id": 271,
+        "name": "Venezia",
+        "address": "134 N Carrollton Ave",
+        "city": "New Orleans",
+        "state": "LA",
+        "zipcode": "70119",
+        "neighborhood": "Mid City",
+        "type": "Pizzeria",
+        "category": "Restaurant",
+        "coordinates": {
+            "latitude": 29.97535,
+            "longitude": -90.09963
+        },
+        "description": "Family-friendly place for classic, old-school Italian fare including pizza.",
+        "features": ["Pizza"]
+    },
+    {
+        "id": 272,
+        "name": "Zee's Pizzeria",
+        "address": "3914 Baronne St",
+        "city": "New Orleans",
+        "state": "LA",
+        "zipcode": "70115",
+        "neighborhood": "Uptown",
+        "type": "Pizzeria",
+        "category": "Restaurant",
+        "coordinates": {
+            "latitude": 29.92906,
+            "longitude": -90.09714
+        },
+        "description": "Placeholder Text",
+        "features": ["Pizza"]
+    },
+    {
+        "id": 273,
+        "name": "Nola Pizza Co.",
+        "address": "3001 Tchoupitoulas St",
+        "city": "New Orleans",
+        "state": "LA",
+        "zipcode": "70115",
+        "neighborhood": "Uptown",
+        "type": "Pizzeria",
+        "category": "Restaurant",
+        "coordinates": {
+            "latitude": 29.92017,
+            "longitude": -90.08105
+        },
+        "description": "Placeholder Text",
+        "features": ["Pizza"] 
+    },
+    {
+        "id": 274,
+        "name": "Nola Mia Gelato Cafe",
+        "address": "2230 St Claude Ave",
+        "city": "New Orleans",
+        "state": "LA",
+        "zipcode": "70117",
+        "neighborhood": "Bywater",
+        "type": "Italian",
+        "category": "Restaurant",
+        "coordinates": {
+            "latitude": 29.96868,
+            "longitude": -90.05581
+        },
+        "description": "Placeholder Text",
+        "features": ["Pizza"]
     }
 ]
