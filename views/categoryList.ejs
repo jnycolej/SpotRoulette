@@ -26,9 +26,9 @@
           </div>
       </nav>
     <h1 class="display-3"><%= category %> List</h1>
-    <ul>
+    <ul class="list-group">
       <% list.forEach(item => { %>
-          <li><%= item.name %></li>
+          <li class="list-group-item"><a href="/destination/<%= item.id %>"><%= item.name %> - <%= item.type %></a></li>
       <% }); %>
     </ul>
     <button class="btn btn-outline-primary" onclick="document.location='../index.html'">Return</button>  
