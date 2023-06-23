@@ -28,7 +28,8 @@ router.get('/categoryList', async (req, res) => {
     const data = getDataFromJSONFull(); // Assuming getDataFromJSON returns the JSON data
     const category = req.query.category;
     const list = getList(category);
-    console.log(data);
+    console.log(category);
+    console.log(list);
     res.render('categoryList', {category, list});
   } catch (error) {
     console.error(error);
