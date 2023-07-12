@@ -14,7 +14,7 @@
             "longitude": -90.07657
         },
         "description": "Ethiopian dishes in an intimate setting.",
-        "features": ["Essential"]
+        "features": ["Essential", "Bayou St. John"]
     },
     { 
         "id": 2,
@@ -41,7 +41,7 @@
         "state": "LA",
         "zipcode": "70112",
         "neighborhood": "French Quarter",
-        "type": "Local",
+        "type": "Creole",
         "category": "Restaurant",
         "coordinates": {
             "latitude": 29.95593,
@@ -82,7 +82,7 @@
             "longitude": -90.04287
         },
         "description": "Farm-to-fork cafe with vegetarian fare",
-        "features": []
+        "features": [""]
     },
     {
         "id": 6,
@@ -99,7 +99,7 @@
             "longitude": -90.09629
         },
         "description": "Comfy taqueria with outdoor tables",
-        "features": []
+        "features": ["Outdoor Dining"]
     },
     {
         "id": 7,
@@ -150,7 +150,7 @@
             "longitude": -90.08695
         },
         "description": "Louisiana fare in a 200-year-old cottage",
-        "features": ["Lunch"]
+        "features": ["Lunch", "Outdoor Dining"]
     },
     {    
         "id": 10,
@@ -160,13 +160,14 @@
         "state": "LA",
         "zipcode":	"70115",
         "neighborhood": "Uptown",
-        "type":	"Vegan",
+        "type":	"American",
         "category": "Restaurant",
         "coordinates": {
             "latitude": 29.93585,
             "longitude": -90.10411
         },
-        "description": "Modern cafe for eclectic brunch fare"
+        "description": "Modern cafe for eclectic brunch fare",
+        "features": ["Breakfast", "Vegan"]
     },		
     {    
         "id": 11,
@@ -231,7 +232,8 @@
             "latitude": 29.98073,
             "longitude": -90.09359
         },
-        "description": "Happening spot for Southern barbecue"
+        "description": "Happening spot for Southern barbecue",
+        "features": [""]
     },
     {    
         "id": 15,
@@ -297,7 +299,8 @@
             "latitude": 29.96243,
             "longitude": -90.04293
         },
-        "description": "German sandwiches, pes, & beer"
+        "description": "German sandwiches, pes, & beer",
+        "features": ["Outdoor Dining", "Iconic"]
     },
     {
         "id": 19,
@@ -313,7 +316,8 @@
             "latitude": 29.95140,
             "longitude": -90.13474
         },
-        "description": "Easygoing plant-based bakery & cafe"
+        "description": "Easygoing plant-based bakery & cafe",
+        "features": ["Bakery"]
     },
     {
         "id": 20,
@@ -330,7 +334,7 @@
             "longitude": -90.05110
         },
         "description": "Placeholder Text",
-        "features": ["Late Night"]
+        "features": ["Late Night", "Faubourg Marigny", "Cocktails"]
     },	
     {
         "id": 21,
@@ -346,7 +350,8 @@
             "latitude": 29.95624,
             "longitude": -90.06661
         },
-        "description": "Traditional spot for upscale Creole fare"
+        "description": "Traditional spot for upscale Creole fare",
+        "features": ["Breakfast", "Outdoor Dining", "Iconic"]
     },
     {
         "id": 22,
@@ -356,7 +361,7 @@
         "state": "LA",
         "zipcode":	"70118",
         "neighborhood":	"Uptown",
-        "type":	"Local",
+        "type":	"Creole",
         "category": "Restaurant",
         "coordinates": {
             "latitude": 29.94590,
@@ -379,7 +384,8 @@
             "latitude": 29.95669,
             "longitude": -90.06809
         },
-        "description": "Elegant dining & Creole fare since 1920"
+        "description": "Elegant dining & Creole fare since 1920",
+        "features": ["Outdoor Dining", "Iconic"]
     },	
     {
         "id": 24,
@@ -396,7 +402,7 @@
             "longitude": -90.08422
         },
         "description": "Intimate French bistro",
-        "features": ["Essential"]
+        "features": ["Essential", "Bayou St. John"]
     },
     {
         "id": 25,
@@ -429,7 +435,8 @@
             "latitude": 29.96045,
             "longitude": -90.05978
         },
-        "description": "Rum cocktails & eclectic nibbles"
+        "description": "Rum cocktails & eclectic nibbles",
+        "features": [""]
     },
     {
         "id": 27,
@@ -478,7 +485,8 @@
             "latitude": 29.93966,
             "longitude": -90.08065
         },
-        "description": "Temporarily Closed"
+        "description": "Temporarily Closed",
+        "features": ["Outdoor Dining"]
     },
     {
         "id": 30,
@@ -495,7 +503,7 @@
             "longitude": -90.10103
         },
         "description": "category for fresh oysters since 1919",
-        "features": ["Lunch"]
+        "features": ["Lunch", "Oysters"]
     },	
     {
         "id": 31,
@@ -528,7 +536,8 @@
             "latitude": 29.94926,
             "longitude": -90.06388
         },
-        "description": "Fine dining in a posh hotel restaurant"
+        "description": "Fine dining in a posh hotel restaurant",
+        "features": ["Great Views", "Cocktails"]
     },		
     {
         "id": 33,
@@ -578,7 +587,7 @@
             "longitude": -90.08424
         },
         "description": "Destination for upscale Creole fare",
-        "features": ["Essential", "Lunch"]
+        "features": ["Essential", "Lunch", "Seafood"]
     },
     {
         "id": 36,
@@ -595,7 +604,7 @@
             "longitude": -90.06730
         },
         "description": "Elegant spot for Carribean dishes",
-        "features": ["Brunch"]
+        "features": ["Brunch", "Seafood", "Outdoor Dining"]
     },
     {
         "id": 37,
@@ -645,7 +654,7 @@
             "longitude": -90.06797
         },
         "description": "French restaurant with a charming patio",
-        "features": ["Happy Hour", "Brunch"]
+        "features": ["Happy Hour", "Brunch", "Cocktails"]
     },
     {
         "id": 40,
@@ -689,7 +698,7 @@
         "state":	"LA",
         "zipcode":	"70119",
         "neighborhood":	"Tremé",
-        "type":	"Local",
+        "type":	"Creole",
         "category": "Restaurant",
         "coordinates": {
             "latitude": 29.96817,
@@ -712,7 +721,8 @@
             "latitude": 29.94939,
             "longitude": -90.10438
         },
-        "description": "Mexican meals & drinks in laid-back digs"
+        "description": "Mexican meals & drinks in laid-back digs",
+        "features": [""]
     },
     {
         "id": 44,
@@ -729,7 +739,7 @@
             "longitude": -90.07199
         },
         "description": "Placeholder Text",
-        "features": ["Essential", "Happy Hour"]
+        "features": ["Essential", "Happy Hour", "Outdoor Dining"]
     },
     {
         "id": 45,
@@ -746,7 +756,8 @@
             "longitude": -90.08005
     
         },
-        "description": "Cheery spot for refined Cajun fare"
+        "description": "Cheery spot for refined Cajun fare",
+        "features": [""]
     },
     {
         "id": 46,
@@ -796,7 +807,7 @@
             "longitude": -90.06892
         },
         "description": "Upscale Seafood Dining",
-        "features": ["Essential"]
+        "features": ["Essential", "Iconic"]
     },	
     {
         "id": 49,
@@ -911,7 +922,8 @@
             "latitude": 30.00497,
             "longitude": -90.10589
         },
-        "description": "Placeholder Text"
+        "description": "Placeholder Text",
+        "features": [""]
     },
     {   
         "id": 56,
@@ -927,7 +939,8 @@
             "latitude": 29.97336,
             "longitude": -90.09593
         },
-        "description": "Homey category for Creole & Italian eats"
+        "description": "Homey category for Creole & Italian eats",
+        "features": [""]
     },
     {
         "id": 57,
@@ -943,7 +956,8 @@
             "latitude": 29.94147,
             "longitude": -90.12852
         },
-        "description": "Placeholder Text"
+        "description": "Placeholder Text",
+        "features": ["Vegan", "Vegetarian"]
     },
     {  
         "id": 58,
@@ -959,7 +973,8 @@
             "latitude": 29.95713,
             "longitude": -90.00205
         },
-        "description": "Placeholder Text"
+        "description": "Placeholder Text",
+        "features": ["Outdoor Dining"]
     },
     {    
         "id": 59,
@@ -993,7 +1008,7 @@
             "longitude": -90.07163
         },
         "description": "Placeholder Text",
-        "features": ["Essential", "Happy Hour"]
+        "features": ["Essential", "Happy Hour", "Oysters", "Seafood"]
     },
     {
         "id": 61,
@@ -1077,7 +1092,7 @@
             "longitude": -90.08316
         },
         "description": "Creol stop for famed BBQ shrimp po' boy",
-        "features": ["Essential", "Lunch"]
+        "features": ["Essential", "Lunch", "Bayou St. John"]
     },
     {    
         "id": 66,
@@ -1103,14 +1118,14 @@
         "state": "LA",	
         "zipcode": "70115",	
         "neighborhood": "Uptown",	
-        "type": "Asian",
+        "type": "Chinese",
         "category": "Restaurant",
         "coordinates": {
             "latitude": 29.91656,
             "longitude": -90.11223
         },
         "description": "Innovative Pan-Asian eats in cozy digs",
-        "features": ["Essential"]
+        "features": ["Essential", "Seafood"]
     },
     {    
         "id": 68,
@@ -1194,7 +1209,8 @@
             "latitude": 29.97713,
             "longitude": -90.07714
         },
-        "description": "Quick-serve known for fried chicken"
+        "description": "Quick-serve known for fried chicken",
+        "features": ["Bayou St. John"]
     },    
     {    
         "id": 73,
@@ -1210,7 +1226,8 @@
             "latitude": 29.96014,
             "longitude": -90.05936
         },
-        "description": "Health-conscious eatery with vegan fare"
+        "description": "Health-conscious eatery with vegan fare",
+        "features": ["Vegan", "Vegetarian"]
     },   
     {    
         "id": 74,
@@ -1244,7 +1261,7 @@
             "longitude": -90.09700
         },
         "description": "Placeholder Text",
-        "features": ["Essential"]
+        "features": ["Essential", "Seafood", "Outdoor Dining"]
     },    
     {    
         "id": 76,
@@ -1260,7 +1277,8 @@
             "latitude": 29.94916,
             "longitude": -90.13189
         },
-        "description": "Placeholder Text"
+        "description": "Placeholder Text",
+        "features": [""]
     },
     {    
        "id": 77,
@@ -1276,7 +1294,8 @@
            "latitude": 29.96879,
            "longitude": -90.04575
        },
-       "description": "Funky French bistro with a courtyard"
+       "description": "Funky French bistro with a courtyard",
+       "features": ["Outdoor Dining"]
     },
     {    
         "id": 78,
@@ -1325,7 +1344,8 @@
             "latitude": 29.97606,
             "longitude": -90.07593
         },
-        "description": "Quirky standby for breakfast & lunch"
+        "description": "Quirky standby for breakfast & lunch",
+        "features": ["Breakfast", "Bayou St. John"]
     },
     {    
         "id": 81,
@@ -1359,7 +1379,7 @@
             "longitude": -90.10629
         },
         "description": "Placeholder Text",
-        "features": ["Essential", "Lunch"]
+        "features": ["Essential", "Lunch", "Outdoor Dining"]
     },
     {    
         "id": 83,
@@ -1426,7 +1446,8 @@
             "latitude": 29.98107,
             "longitude": -90.08504
         },
-        "description": "Southwestern fare margaritas & a porch"
+        "description": "Southwestern fare margaritas & a porch",
+        "features": ["Outdoor Dining", "Bayou St. John"]
     },
     {       
         "id": 87,
@@ -1459,7 +1480,7 @@
             "longitude": -90.13264
         },
         "description": "Placeholder Text",
-        "features": ["Brunch"]
+        "features": ["Brunch", "Oysters", "Outdoor Dining"]
     },
     {       
         "id": 89,
@@ -1492,7 +1513,8 @@
             "latitude": 29.94078,
             "longitude": -90.06932
         },
-        "description": "Casual alfresco spot showcasing seafood"
+        "description": "Casual alfresco spot showcasing seafood",
+        "features": ["Oysters", "Outdoor Dining"]
     },
     { 
         "id": 91,
@@ -1508,7 +1530,8 @@
             "latitude": 29.92322,
             "longitude": -90.08819
         },
-        "description": "Kitschy, veggie-friendly daytime diner"
+        "description": "Kitschy, veggie-friendly daytime diner",
+        "features": ["Breakfast"]
     },    
     {
         "id": 92,
@@ -1524,7 +1547,8 @@
             "latitude": 29.96365,
             "longitude": -90.05076
         },
-        "description": "Placeholder Text"
+        "description": "Placeholder Text",
+        "features": ["Faubourg Marigny"]
     },
     {    
         "id": 93,
@@ -1583,7 +1607,7 @@
         "city": "New Orleans",
         "state": "LA",
         "zipcode": "70119",	
-        "neighborhood": "Mid City",
+        "neighborhood": "Tremé",
         "type": "Vegan",
         "category": "Restaurant",
         "coordinates": {
@@ -1591,7 +1615,7 @@
             "longitude": -90.08056
         },
         "description": "Low-key pick for vegan soul food",
-        "features": ["Essential"]
+        "features": ["Essential", "Vegan", "Vegetarian", "Bayou St. John"]
     },
     {    
         "id": 97,
@@ -1607,7 +1631,8 @@
             "latitude": 29.95727,
             "longitude": -90.06422
         },
-        "description": "Gastropub in a former carriage house"
+        "description": "Gastropub in a former carriage house",
+        "features": [""]
     },
     {
         "id": 98,
@@ -1673,7 +1698,8 @@
             "latitude": 29.95383,
             "longitude": -90.06526
         },
-        "description": "Placeholder Text"
+        "description": "Placeholder Text",
+        "features": [""]
     },
     {   
         "id": 102,
@@ -1771,7 +1797,7 @@
             "longitude": -90.06962
         },
         "description": "Cajun-Creole cuisine in an upscale space",
-        "features": [""]
+        "features": ["Seafood"]
     },
     {   
         "id": 108,
@@ -1803,7 +1829,8 @@
             "latitude": 29.95514,
             "longitude": -90.06452
         },
-        "description": "longitudetime category with Creole tasting menu"
+        "description": "longitudetime category with Creole tasting menu",
+        "features": ["Iconic"]
     },
     {   
         "id": 110,
@@ -1820,7 +1847,7 @@
             "longitude": -90.07443
         },
         "description": "Sandwiches & drinks in colourful digs",
-        "features": ["Essential", "Lunch"]
+        "features": ["Essential", "Lunch", "Breakfast"]
     },
     {   
         "id": 111,
@@ -1870,7 +1897,7 @@
             "longitude": -90.06780
         },
         "description": "Casual French locale with a courtyard",
-        "features": ["Essential"]
+        "features": ["Essential", "Outdoor Dining"]
     },
     {   
         "id": 114,
@@ -1886,7 +1913,8 @@
             "latitude": 29.97456,
             "longitude": -90.10702
         },
-        "description": "Cozy, comfy breakfast joint"
+        "description": "Cozy, comfy breakfast joint",
+        "features": ["Breakfast"]
     },
     {    
         "id": 115,
@@ -1919,7 +1947,8 @@
             "latitude": 29.92203,
             "longitude": -90.11920
         },
-        "description": "Placeholder Text"
+        "description": "Placeholder Text",
+        "features": ["Bakery"]
     },
     {		
         "id": 117,
@@ -1936,7 +1965,7 @@
             "longitude": -90.10018
         },
         "description": "Placeholder Text",
-        "features": ["Essential"]
+        "features": ["Essential", "Seafood"]
     },
     {
         "id": 118,
@@ -2001,7 +2030,8 @@
             "latitude": 29.95764,
             "longitude": -90.06582
         },
-        "description": "Placeholder Text"
+        "description": "Placeholder Text",
+        "features": ["Cocktails"]
     },
     {
         "id": 122,
@@ -2018,7 +2048,7 @@
             "longitude": -90.07283
         },
         "description": "Sleek lounge with cocktail nibbles",
-        "features": ["Happy Hour"]
+        "features": ["Happy Hour", "Cocktails"]
     },
     {
         "id": 123,
@@ -2084,7 +2114,7 @@
             "longitude": -90.07132
         },
         "description": "Placeholder Text",
-        "features": ["Happy Hour"]
+        "features": ["Happy Hour", "Seafood", "Great Views"]
     },
     {
         "id": 127,
@@ -2117,7 +2147,8 @@
             "latitude": 29.96858,
             "longitude": -90.05743
         },
-        "description": "Placeholder Text"
+        "description": "Placeholder Text",
+        "features": ["Faubourg Marigny"]
     },
     {
         "id": 129,
@@ -2134,7 +2165,7 @@
             "longitude": -90.05493
         },
         "description": "Placeholder Text",
-        "features": ["Brunch"]
+        "features": ["Brunch", "Faubourg Marigny", "Outdoor Dining"]
     },
     {
         "id": 130,
@@ -2151,7 +2182,7 @@
             "longitude": -90.03319
         },
         "description": "Backyard bistro at a wine shop",
-        "features": ["Essential"]
+        "features": ["Essential", "Outdoor Dining"]
     },
     {
         "id": 131,
@@ -2167,7 +2198,8 @@
             "latitude": 29.95872,
             "longitude": -90.06942
         },
-        "description": "Refined dining with a garden courtyard"
+        "description": "Refined dining with a garden courtyard",
+        "features": ["Essential", "Outdoor Dining"]
     },
     {
         "id": 132,
@@ -2183,7 +2215,8 @@
             "latitude": 29.95087,
             "longitude": -90.07450
         },
-        "description": "Stylish wine bar with a leafy patio"
+        "description": "Stylish wine bar with a leafy patio",
+        "features": [""]
     },
     {
         "id": 133,
@@ -2200,7 +2233,7 @@
             "longitude": -90.09267
         },
         "description": "Chic wine bar with upscale bites",
-        "features": ["Late Night"]
+        "features": ["Late Night", "Outdoor Dining"]
     },
     {
         "id": 134,
@@ -2217,7 +2250,7 @@
             "longitude": -90.09171
         },
         "description": "Sports bar in a cottage with a porch",
-        "features": ["Late Night"]
+        "features": ["Late Night", "Bayou St. John"]
     },
     {
         "id": 135,
@@ -2250,7 +2283,8 @@
             "latitude": 29.96396,
             "longitude": -90.04716
         },
-        "description": "Placeholder Text"
+        "description": "Placeholder Text",
+        "features": [""]
     },
     {
         "id": 137,
@@ -2349,7 +2383,8 @@
             "latitude": 29.97163,
             "longitude": -90.09120
         },
-        "description": "Cozy wine bar with Southern-style bites"
+        "description": "Cozy wine bar with Southern-style bites",
+        "features": ["Bayou St. John"]
     },
     {
         "id": 143,
@@ -2483,7 +2518,7 @@
             "longitude": -90.06974
         },
         "description": "Placeholder Text",
-        "features": ["Rooftop"]
+        "features": ["Rooftop", "Great Views"]
     },
     {
         "id": 151,
@@ -2516,7 +2551,8 @@
             "latitude": 29.91141,
             "longitude": -90.22940 
         },
-        "description": "Nothing-fancy place serving heart portions of family-style Italian fare sine 1946"
+        "description": "Nothing-fancy place serving heart portions of family-style Italian fare sine 1946",
+        "features": [""]
     },
     {
         "id": 153,
@@ -2550,7 +2586,7 @@
             "longitude": -90.10215
         },
         "description": "Placeholder Text",
-        "features": ["Happy Hour", "Brunch"]
+        "features": ["Happy Hour", "Brunch", "Outdoor Dining"]
     },
     {
         "id": 155,
@@ -2584,7 +2620,7 @@
             "longitude": -90.07611
         },
         "description": "Placeholder Text",
-        "features": ["Brunch"]
+        "features": ["Brunch", "New"]
     },
     {
         "id": 157,
@@ -2601,7 +2637,7 @@
             "longitude": -90.06383
         },
         "description": "Placeholder Text",
-        "features": ["Brunch"]
+        "features": ["Brunch", "Seafood"]
     },
     {
         "id": 158,
@@ -2635,7 +2671,7 @@
             "longitude": -90.13070
         },
         "description": "Placeholder Text",
-        "features": ["Happy Hour", "Brunch"]
+        "features": ["Happy Hour", "Brunch", "Cocktails", "New"]
     },
     {
         "id": 160,
@@ -2669,7 +2705,7 @@
             "longitude": -90.06135
         },
         "description": "Placeholder Text",
-        "features": ["Brunch"]
+        "features": ["Brunch", "New"]
     },
     {
         "id": 162,
@@ -2737,7 +2773,7 @@
             "longitude": -90.13236
         },
         "description": "Southern Italian spot for red-sauce pastas, crab bisque & other classic fare in an old-world space.",
-        "features": []
+        "features": [""]
     },
     {
         "id": 166,
@@ -2753,7 +2789,8 @@
             "latitude": 29.92187,
             "longitude": -90.12015
         },
-        "description": "Sophisticated destination serving seasonal Italian dishes & cocktails in a handsome space."
+        "description": "Sophisticated destination serving seasonal Italian dishes & cocktails in a handsome space.",
+        "features": [""]
     },
     {
         "id": 167,
@@ -2769,7 +2806,8 @@
             "latitude": 30.00566,
             "longitude": -90.11902
         },
-        "description": "Placeholder Text"
+        "description": "Placeholder Text",
+        "features": [""]
     },
     {
         "id": 168,
@@ -2785,7 +2823,8 @@
             "latitude": 29.97523,
             "longitude": -90.09967
         },
-        "description": "Family-friendly place for classic, old-school Italian fare including pizza."
+        "description": "Family-friendly place for classic, old-school Italian fare including pizza.",
+        "features": [""]
     },
     {
         "id": 169,
@@ -2801,7 +2840,8 @@
             "latitude": 29.93418,
             "longitude": -90.07287
         },
-        "description": "Placeholder Text"
+        "description": "Placeholder Text",
+        "features": [""]
     },
     {
         "id": 170,
@@ -2817,7 +2857,8 @@
             "latitude": 29.94855,
             "longitude": -90.07198
         },
-        "description": "Southern-inspired Italian meals & wine served in a soaring dining room with ornate decor."
+        "description": "Southern-inspired Italian meals & wine served in a soaring dining room with ornate decor.",
+        "features": [""]
     },
     {
         "id": 171,
@@ -2833,7 +2874,8 @@
             "latitude": 29.94572,
             "longitude": -9006971
         },
-        "description": "Restaurant serving handmade pasta, wood-fired pizza & Italian cuisine amid informal surrounds."
+        "description": "Restaurant serving handmade pasta, wood-fired pizza & Italian cuisine amid informal surrounds.",
+        "features": [""]
     },
     {
         "id": 172,
@@ -2849,7 +2891,8 @@
             "latitude": 29.94690,
             "longitude": -90.06881
         },
-        "description": "Cheery outpost serving rustic wood-fired Italian fare with a Southern twist, plus wine & cocktails."
+        "description": "Cheery outpost serving rustic wood-fired Italian fare with a Southern twist, plus wine & cocktails.",
+        "features": [""]
     },
     {
         "id": 173,
@@ -2865,7 +2908,8 @@
             "latitude":29.95427,
             "longitude": -90.06609
         },
-        "description": "Upscale Italian classics draw crowds to this homey yet elegant dining room with a piano bar."
+        "description": "Upscale Italian classics draw crowds to this homey yet elegant dining room with a piano bar.",
+        "features": [""]
     },
     {
         "id": 174,
@@ -2881,7 +2925,8 @@
             "latitude": 29.96239,
             "longitude": -90.06087
         },
-        "description": "Simple Italian dishes & pizza in an intimate, laid-back space hung with 'Mona Lisa' portraits."
+        "description": "Simple Italian dishes & pizza in an intimate, laid-back space hung with 'Mona Lisa' portraits.",
+        "features": [""]
     },
     {
         "id": 175,
@@ -2897,7 +2942,8 @@
             "latitude": 29.96159,
             "longitude": -90.05868
         },
-        "description": "Tiny, romantic spot (reservations recommended) for creative Northern Italian fare."
+        "description": "Tiny, romantic spot (reservations recommended) for creative Northern Italian fare.",
+        "features": [""]
     },
     {
         "id": 176,
@@ -2913,7 +2959,8 @@
             "latitude": 29.96398,
             "longitude": -90.05769
         },
-        "description": "Bustling restaurant serves Italian fare with Cajun-Creole flair in a quaint, small setting."
+        "description": "Bustling restaurant serves Italian fare with Cajun-Creole flair in a quaint, small setting.",
+        "features": [""]
     },
     {
         "id": 177,
@@ -2930,7 +2977,7 @@
             "longitude": -90.05489
         },
         "description": "Local & imported talent helm the kitchen at this sleek spot serving pizzas, pastas & seasonal sides.",
-        "features": ["Pizza"]
+        "features": ["Pizza", "Faubourg Marigny"]
     },
     {
         "id": 178,
@@ -2946,7 +2993,8 @@
             "latitude": 29.96866,
             "longitude": -90.05501
         },
-        "description": "Laid-back Italian eatery specializing in build-your-own pasta dishes with various sauces & add-ons."
+        "description": "Laid-back Italian eatery specializing in build-your-own pasta dishes with various sauces & add-ons.",
+        "features": ["Faubourg Marigny"]
     },
     {
         "id": 179,
@@ -2962,7 +3010,8 @@
             "latitude": 29.91964,
             "longitude": -90.04506
         },
-        "description": "Restaurant with a seafood-focused Southern Italian menu & a cozy space with piano music on weekends."
+        "description": "Restaurant with a seafood-focused Southern Italian menu & a cozy space with piano music on weekends.",
+        "features": [""]
     },
     {
         "id": 180,
@@ -2978,7 +3027,8 @@
             "latitude": 29.93925,
             "longitude": -89.97095
         },
-        "description": "Big portions of down-home Creole-Italian fare like mac 'n' cheese in a retro 1950s-styled space."
+        "description": "Big portions of down-home Creole-Italian fare like mac 'n' cheese in a retro 1950s-styled space.",
+        "features": [""]
     },
     {
         "id": 181,
@@ -3072,7 +3122,7 @@
         "city": "New Orleans",
         "state": "LA",
         "zipcode": "70116",
-        "neighborhood": "Seventh Ward",
+        "neighborhood": "Tremé",
         "type": "American",
         "category": "Restaurant",
         "coordinates": {
@@ -3096,7 +3146,8 @@
             "latitude": 29.94889,
             "longitude": -90.13113
         },
-        "description": "Placeholder Text"
+        "description": "Placeholder Text",
+        "features": ["Outdoor Dining", "Brunch"]
     },
     {
         "id": 188,
@@ -3112,7 +3163,8 @@
             "latitude": 30.48058,
             "longitude": -90.03961
         },
-        "description": "Featuring abita beers not sold in stores an traditional bar snacks" 
+        "description": "Featuring abita beers not sold in stores an traditional bar snacks",
+        "features": [""] 
     },
     {
         "id": 189,
@@ -3128,7 +3180,8 @@
             "latitude": 30.01482,
             "longitude": -90.05158
         },
-        "description": "Gentilly restaurant blends Creole- and Jamaican-inspired dishes" 
+        "description": "Gentilly restaurant blends Creole- and Jamaican-inspired dishes",
+        "features": ["Outdoor Dining"]
     },
     {
         "id": 190,
@@ -3144,7 +3197,8 @@
             "latitude": 30.01685,
             "longitude": -90.19878
         },
-        "description": "Iraqi restaurant serving sandwiches, manakish, shawarma and more. Its specialty is fish almasgoof."
+        "description": "Iraqi restaurant serving sandwiches, manakish, shawarma and more. Its specialty is fish almasgoof.",
+        "features": [""]
     },
     {
         "id": 191,
@@ -3154,13 +3208,14 @@
         "state": "LA",
         "zipcode": "70119",
         "neighborhood": "Mid City",
-        "type": "Gelateria",
+        "type": "Dessert",
         "category": "Restaurant",
         "coordinates": {
             "latitude": 29.97703,
             "longitude": -90.09909
         },
-        "description": "Institution since 1905 for gelato & Italian desserts in a nostalgic, pastel-link parlor setting"
+        "description": "Institution since 1905 for gelato & Italian desserts in a nostalgic, pastel-link parlor setting",
+        "features": ["Gelateria", "Bakery"]
     },
     {
         "id": 192,
@@ -3176,7 +3231,8 @@
             "latitude": 29.94382,
             "longitude": -90.06768
         },
-        "description": "Renovated historic space is now an upscale, white-tablecloth restaurant for modern Creole fare"
+        "description": "Renovated historic space is now an upscale, white-tablecloth restaurant for modern Creole fare",
+        "features": [""]
     },
     {
         "id": 193,
@@ -3192,7 +3248,8 @@
             "latitude": 29.95094,
             "longitude": -90.06679
         },
-        "description": "New French fare at a smart restaurant in a chandelier-studded 19th-century space."
+        "description": "New French fare at a smart restaurant in a chandelier-studded 19th-century space.",
+        "features": [""]
     },
     {
         "id": 194,
@@ -3201,14 +3258,15 @@
         "city": "New Orleans",
         "state": "LA",
         "zipcode": "70112",
-        "neighborhood": "Downtown",
+        "neighborhood": "Tremé",
         "type": "Coffee Shop",
         "category": "Restaurant",
         "coordinates": {
             "latitude": 29.95960,
             "longitude": -90.07167
         },
-        "description": "Light-filled shop serving espresso drinks, tea & sandwiches amid leather sofas & colorful murals"
+        "description": "Light-filled shop serving espresso drinks, tea & sandwiches amid leather sofas & colorful murals",
+        "features": [""]
     },
     {
         "id": 195,
@@ -3336,7 +3394,8 @@
             "latitude": 29.92649,
             "longitude": -90.08020
         },
-        "description": "Longtime divey hang with Cajun eats, like po'boys galore, plus sports on TV & St. Patty's Day fun."
+        "description": "Longtime divey hang with Cajun eats, like po'boys galore, plus sports on TV & St. Patty's Day fun.",
+        "features": ["Irish Pubs"]
     },
     {
         "id": 203,
@@ -3464,7 +3523,8 @@
             "latitude": 29.96719,
             "longitude": -90.05202
         },
-        "description": "Placeholder Text"
+        "description": "Placeholder Text",
+        "features": [""]
     },
     {
         "id": 211,
@@ -3529,7 +3589,8 @@
             "latitude": 29.96577,
             "longitude": -90.05114
         },
-        "description": "French Quarter eatery offering inventive New American fare & cocktails in a hip setting."
+        "description": "French Quarter eatery offering inventive New American fare & cocktails in a hip setting.",
+        "features": [""]
     },
     {
         "id": 215,
@@ -3545,7 +3606,8 @@
             "latitude": 29.96244,
             "longitude": -90.06093
         },
-        "description": "Charming, intimate place for vegetarian-friendly West African fare served in art-filled surrounds."
+        "description": "Charming, intimate place for vegetarian-friendly West African fare served in art-filled surrounds.",
+        "features": [""]
     },
     {
         "id": 216,
@@ -3644,7 +3706,7 @@
             "longitude": -90.07315
         },
         "description": "Placeholder Text",
-        "features": ["Happy Hour"]
+        "features": ["Happy Hour", "Cocktails"]
     },
     {
         "id": 222,
@@ -3746,7 +3808,7 @@
             "longitude": -90.06116
         },
         "description": "This longtime market & deli open 24/7 is known for Creole-inspired sandwiches, entrees & sides.",
-        "features": ["Late Night", "24 hours"]
+        "features": ["Late Night", "24 hours", "Iconic"]
     },
     {
         "id": 228,
@@ -3882,7 +3944,7 @@
             "longitude": -90.06561
         },
         "description": "Placeholder Text",
-        "features": [""]
+        "features": ["New"]
     },
     {
         "id": 235,
@@ -3899,7 +3961,7 @@
             "longitude": -90.07257
         },
         "description": "Placeholder Text",
-        "features": [""]
+        "features": ["New"]
     },
     {
         "id": 236,
@@ -3933,7 +3995,7 @@
             "longitude": -90.13387
         },
         "description": "Storied institution offering classic diner fare & comfort food served by waiters wearing bow ties.",
-        "features": []
+        "features": ["Breakfast"]
     },
     {
         "id": 238,
@@ -4018,7 +4080,7 @@
             "longitude": -90.07752
         },
         "description": "This narrow, time-tested joint with booth & counter seating offers a Louisiana-style diner menu.",
-        "features": [""]
+        "features": ["Breakfast"]
     },
     {
         "id": 243,
@@ -4103,7 +4165,7 @@
             "longitude": -90.10276
         },
         "description": "Family-friendly spot since 1913, best known for BBQ shrimp but also serves Louisiana-Italian dishes.",
-        "features": ["Lunch"]
+        "features": ["Lunch", "Oysters"]
     },
     {
         "id": 248,
@@ -4120,7 +4182,7 @@
             "longitude": -90.09013
         },
         "description": "Longtime (since 1911) neighborhood hangout with a patio known for classic-style po' boys.",
-        "features": ["Lunch"]
+        "features": ["Lunch", "Bayou St. John"]
     },
     {
         "id": 249,
@@ -4137,7 +4199,7 @@
             "longitude": -90.07620
         },
         "description": "Placeholder Text",
-        "features": ["Lunch"]
+        "features": ["Lunch", "Outdoor Dining", "Bayou St. John"]
     },
     {
         "id": 250,
@@ -4239,7 +4301,7 @@
             "longitude": -90.06401
         },
         "description": "Retro-styled diner",
-        "features": ["24 hours"]
+        "features": ["24 hours", "Breakfast", "Iconic"]
     },
     {
         "id": 256,
@@ -4273,7 +4335,7 @@
             "longitude": -90.09917
         },
         "description": "Sports on TV, pool & busy trivia nights in an Irish pub setting that can get crowded on game day",
-        "features": ["Essential"]
+        "features": ["Essential", "Irish Pubs"]
     },
     {
         "id": 258,
@@ -4290,7 +4352,7 @@
             "longitude": -90.08634
         },
         "description": "Placeholder Text",
-        "features": ["Essential"]
+        "features": ["Essential", "Bayou St. John"]
     },
     {
         "id": 259,
@@ -4300,14 +4362,14 @@
         "state": "LA",
         "zipcode": "70130",
         "neighborhood": "French Quarter",
-        "type": "Local",
+        "type": "Creole",
         "category": "Restaurant",
         "coordinates": {
             "latitude": 29.95515,
             "longitude": -90.06904
         },
         "description": "Fine-dining century-old institution serving French-Creole fare in upscale (jackets required)",
-        "features": ["Essential", "Lunch"]
+        "features": ["Essential", "Lunch", "Iconic"]
     },
     {
         "id": 260,
@@ -4324,7 +4386,7 @@
             "longitude": -90.06732
         },
         "description": "Lauded choice in charming, historic digs specializing in pork dishes & imaginative Cajun eats.",
-        "features": ["Lunch"]
+        "features": ["Lunch", "Barbecue"]
     },
     {
         "id": 261,
@@ -4498,20 +4560,7 @@
     },
     {
         "id": 271,
-        "name": "Venezia",
-        "address": "134 N Carrollton Ave",
-        "city": "New Orleans",
-        "state": "LA",
-        "zipcode": "70119",
-        "neighborhood": "Mid City",
-        "type": "Pizzeria",
-        "category": "Restaurant",
-        "coordinates": {
-            "latitude": 29.97535,
-            "longitude": -90.09963
-        },
-        "description": "Family-friendly place for classic, old-school Italian fare including pizza.",
-        "features": ["Pizza"]
+  
     },
     {
         "id": 272,
@@ -4596,7 +4645,7 @@
             "longitude": -90.19586
         },
         "description": "Traditional Vietnamese dishes like pho & banh mi, plus bubble tea, in a simple strip-mall setting.",
-        "features": ["Pizza"]
+        "features": [""]
     },
     {
         "id": 277,
@@ -4716,5 +4765,141 @@
         },
         "description": "Creative & sophisticated Vietnamese-French fare in a white-tablesloth bistro space.",
         "features": [""]
+    },
+    {
+        "id": 284,
+        "name": "Pho Tau Bay Restaurant",
+        "address": "1565 Tulane Ave",
+        "city": "New Orleans",
+        "state": "LA",
+        "zipcode": "70112",
+        "neighborhood": "CBD",
+        "type": "Vietnamese",
+        "category": "Restaurant",
+        "coordinates": {
+            "latitude": 29.95674,
+            "longitude": -90.07847
+        },
+        "description": "Placeholder Text",
+        "features": [""]
+    },
+    {
+        "id": 285,
+        "name": "Mr. Bubbles",
+        "address": "1441 Canal St #1",
+        "city": "New Orleans",
+        "state": "LA",
+        "zipcode": "70112",
+        "neighborhood": "Downtown",
+        "type": "Vietnamese",
+        "category": "Restaurant",
+        "coordinates": {
+            "latitude": 29.95768,
+            "longitude": -90.07484
+        },
+        "description": "Placeholder Text",
+        "features": [""]
+    },
+    {
+        "id": 286,
+        "name": "Seithers Seafood",
+        "address": "279 Hickory Ave",
+        "city": "Harahan",
+        "state": "LA",
+        "zipcode": "70123",
+        "neighborhood": "Jefferson Parish",
+        "type": "Local",
+        "category": "Restaurant",
+        "coordinates": {
+            "latitude": 29.94105,
+            "longitude": -90.19456
+        },
+        "description": "Casual restaurant & fresh-fish market making local seafood specialties & a variety of po'boys",
+        "features": ["Poboys"]
+    },
+    {
+        "id": 287,
+        "name": "Short Stop Poboys",
+        "address": "119 Transcontinental Dr",
+        "city": "Metairie",
+        "state": "LA",
+        "zipcode": "70001",
+        "neighborhood": "Metairie",
+        "type": "Local",
+        "category": "Restaurant",
+        "coordinates": {
+            "latitude": 29.97729,
+            "longitude": -90.18583
+        },
+        "description": "Popular po'boy place with many options & an eclectic mix of sides in a counter-service space.",
+        "features": ["Poboys"]
+    },
+    {
+       "id": 288,
+       "name": "The Sazerac Bar",
+       "address": "130 Roosevelt Way",
+       "city": "New Orleans",
+       "state": "LA",
+       "zipcode": "70130",
+       "neighborhood": "Downtown",
+       "type": "Cocktail",
+       "category": "Bar",
+       "coordinates": {
+            "latitude": 29.95441,
+            "longitude": -90.07225
+       },
+       "description": "Grand Roosevelt Hotel cocktail bar with classic drinks, plush banquettes & elegant old-world vibe.",
+       "features": ["Essential"]
+    },
+    {
+        "id": 289,
+        "name": "Candlelight Lounge",
+        "address": "925 N Robertson St",
+        "city": "New Orleans",
+        "state": "LA",
+        "zipcode": "70116",
+        "neighborhood": "Tremé",
+        "type": "Neighborhood",
+        "category":"Bar",
+        "coordinates": {
+            "latitude": 29.96564,
+            "longitude": -90.07084
+        },
+        "description": "Local brass bands play at this intimate place that dishes out a menu of clasic Creole fare.",
+        "features": ["Essential"]
+    },
+    {
+        "id": 290,
+        "name": "Loa Bar",
+        "address": "221 Camp St",
+        "city": "New Orleans",
+        "state": "LA",
+        "zipcode": "70130",
+        "neighborhood": "Warehouse District",
+        "type": "Cocktail",
+        "category":"Bar",
+        "coordinates": {
+            "latitude": 29.95145,
+            "longitude": -90.06885
+        },
+        "description": "Seasonal handcrafted cocktails in a warm & sophisticated space at the International House Hotel.",
+        "features": ["Essential"]
+    },
+    {
+        "id": 291,
+        "name": "Arnaud’s French 75 Bar",
+        "address": "813 Bienville St",
+        "city": "New Orleans",
+        "state": "LA",
+        "zipcode": "70112",
+        "neighborhood": "French Quarter",
+        "type": "Cocktail",
+        "category":"Bar",
+        "coordinates": {
+            "latitude": 29.95587,
+            "longitude": -90.06877
+        },
+        "description": "Classic upscale restaurant & lounge featuring Creole cuisine, cocktails & Dixieland jass since 1918.",
+        "features": ["Essential"]
     }
 ]
