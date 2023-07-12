@@ -283,7 +283,7 @@
             "longitude": -90.09293
         },
         "description": "Swanky gastropub for modern small plates",
-        "features": ["Late Night"]
+        "features": ["Late Night", "Dessert"]
     },
     {   
         "id": 18,
@@ -1345,7 +1345,7 @@
             "longitude": -90.07593
         },
         "description": "Quirky standby for breakfast & lunch",
-        "features": ["Breakfast", "Bayou St. John"]
+        "features": ["Breakfast", "Bayou St. John", "Tacos"]
     },
     {    
         "id": 81,
@@ -1565,7 +1565,7 @@
             "longitude": -90.04289
         },
         "description": "Farm-to-fork cafe with vegetarian fare",
-        "features": ["Essential"]
+        "features": ["Essential", "Bagels"]
     },
     {    
         "id": 94,
@@ -2081,7 +2081,8 @@
             "latitude": 29.94904,
             "longitude": -90.06380
         },
-        "description": "Placeholder Text"
+        "description": "Placeholder Text",
+        "features": ["Dessert", "Hotel"]
     },
     {
         "id": 125,
@@ -2199,7 +2200,7 @@
             "longitude": -90.06942
         },
         "description": "Refined dining with a garden courtyard",
-        "features": ["Essential", "Outdoor Dining"]
+        "features": ["Essential", "Outdoor Dining", "Dessert"]
     },
     {
         "id": 132,
@@ -2301,7 +2302,7 @@
             "longitude": -90.06871
         },
         "description": "Cake & cocktails in a rustic setting",
-        "features": ["Happy Hour", "Brunch"]
+        "features": ["Happy Hour", "Brunch", "Dessert"]
     },
     {
         "id": 138,
@@ -4029,7 +4030,7 @@
             "longitude": -90.09932
         },
         "description": "Placeholder Text",
-        "features": [""]
+        "features": ["Dessert", "Hotel"]
     },
     {
         "id": 240,
@@ -4611,7 +4612,7 @@
             "longitude": -90.05581
         },
         "description": "Placeholder Text",
-        "features": ["Pizza"]
+        "features": ["Pizza", "Ice Cream Shop", "Gelato"]
     },
     {
         "id": 275,
