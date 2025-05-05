@@ -77,3 +77,15 @@ button:focus-visible {
   height: 350px;
   width: 500px;
 }
+
+table {
+  padding: 10px;
+}
+
+th { 
+  padding: 10px;
+}
+
+td {
+  padding-right: 10px;
+}

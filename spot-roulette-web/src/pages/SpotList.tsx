@@ -50,7 +50,7 @@ export default function SpotList() {
                             <tr key={place.id || index}>
                                 <td>{place.name}</td>
                                 <td>{place.type}</td>
-                                <td>{place.description || "N/A"}</td>
+                                <td>{place.description || "Not available yet"}</td>
                                 <td>{place.address}, {place.state}</td>
                             </tr>
                         ))}
