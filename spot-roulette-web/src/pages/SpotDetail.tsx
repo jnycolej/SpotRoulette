@@ -11,7 +11,9 @@ export default function PlaceDetail() {
     const [place, setPlace] = useState<any>(null);
     const mapRef = useRef<google.maps.Map | null>(null);
     const mapContainerRef = useRef<HTMLDivElement | null>(null);
+    const [price, setPrice] = useState("");
 
+    
 
     //Fetch the place
     useEffect(() => {
@@ -55,6 +57,16 @@ export default function PlaceDetail() {
         .catch(console.error);      
     }, [place]);
     
+    // if(place.priceLevel === "1") {
+    //     setPrice("$");
+    // } else if(place.priceLevel === "2") {
+    //     setPrice("$$");
+    // } else if(place.priceLevel === "3") {
+    //     setPrice("$$$");
+    // } else if(place.priceLevel === "4") {
+    //     setPrice("$$$$");
+    // }
+
     if (!place) return <div>
         <NavBar />
         <p>Loading...</p>
@@ -64,9 +76,9 @@ export default function PlaceDetail() {
         <div className="mx-auto w-fit">
             <NavBar />
             <h1>{place.name}</h1>
-            <p className="font-medium">{place.type}</p>
+            <p className="font-medium">{place.type} | </p>
             <p>{place.description}</p>
-            <p>{place.tags?.join(', ')}</p>
+            <p>{place.tags?.join(' | ')}</p>
             <div ref={mapContainerRef} id="map" className="my-4 h-70 w-full rounded-md shadow" />
             <button onClick={() => navigate('/')}>Home</button>
         </div>
