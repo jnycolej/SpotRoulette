@@ -15,7 +15,7 @@ export default function Home() {
             <h1>SpotRoulette</h1>
             <NavBar />
             <button onClick={handleClick}>Pick a Place</button>
-            <button>Get a Little More Specific</button>            
+            <button onClick={() => {navigate(`/places/FilteredSpotRoulette`)}}>Get a Little More Specific</button>            
         </div>
 
     );
