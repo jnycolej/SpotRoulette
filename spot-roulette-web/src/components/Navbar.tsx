@@ -15,9 +15,9 @@ export default function NavBar() {
     return (
         <div>
             <div className="flex">
-                <button>Navbar</button>
                 <button onClick={() => handleClick("/")}>Home</button>
-                <button onClick={() => handleClick("/places")}>SpotsList</button>                
+                <button onClick={() => handleClick("/places")}>SpotsList</button>
+                <button onClick={() => handleClick("/FilteredSpotRoulette")}>Filtered Roulette</button>                
             </div>
         </div>
     )
