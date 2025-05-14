@@ -13,6 +13,6 @@ export default defineConfig({
       // any request the browser makes to /places
       // is transparently forwarded to http://localhost:3001/places
       "/api": "http://localhost:3001"
-    }
+    },
   }
 });
